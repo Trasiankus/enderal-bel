@@ -132,7 +132,7 @@
  "$00E_HANDWERKSPUNKTE": {
   "en": "Crafting Points:",
   "ru": "Очков крафтинга: ",
-  "bel": "Пунктаў крафту:"
+  "bel": "Ачкоў крафтынгу:"
  },
  "$00E_HANDWERKSPUNKTEDESCRTEXT": {
   "en": "You receive Crafting Points with each level-up. You need them to use workmanship guides, which raise your artisanal skills.   \t",
@@ -192,7 +192,7 @@
  "$00E_LERNPUNKTE": {
   "en": "Learning Points: ",
   "ru": "Очков обучения: ",
-  "bel": "Пунктаў навучання:"
+  "bel": "Ачкоў навучання:"
  },
  "$00E_LERNPUNKTEDESCRTEXT": {
   "en": "You receive Learning Points with each level-up. You need them to use learning books which raise your combat-related skills and which you can buy from merchants or find in the wilderness.\t",
