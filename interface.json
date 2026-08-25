@@ -1,11 +1,11 @@
 {
  "$ TO PLACE": {
-  "en": "TO PLACE",
+  "en": " TO PLACE",
   "ru": "ПОМЕСТИТЬ",
   "bel": "ЗМЯСЦІЦЬ"
  },
  "$ TO STEAL": {
-  "en": "TO STEAL",
+  "en": " TO STEAL",
   "ru": "УКРАСТЬ",
   "bel": "СКРАСЦІ"
  },
@@ -15,422 +15,422 @@
   "bel": "0 вынікаў знойдзена."
  },
  "$00E_ALCHIMIE": {
-  "en": "00E_ALCHIMIE",
+  "en": "Alchemy: ",
   "ru": "Алхимия: ",
   "bel": "Алхімія:"
  },
  "$00E_ALCHIMIEDESCRTEXT": {
-  "en": "00E_ALCHIMIEDESCRTEXT",
+  "en": "Alchemy allows you to brew health and mana potions and deadly poison. Alchemy is subject to the memories of the \"Vagrant\" and the \"Lycanthrope\".",
   "ru": "Алхимия позволяет вам варить зелья здоровья и маны, а также смертельно опасные яды. Алхимия зависит от воспоминаний \"Бродяги\".",
   "bel": "Алхімія дазваляе вам варыць зелле здароўя і маны, а таксама смяротна небяспечныя яды. Алхімія залежыць ад успамінаў «Вандроўніка»."
  },
  "$00E_ALCHIMIEDESCRTITEL": {
-  "en": "00E_ALCHIMIEDESCRTITEL",
+  "en": "Alchemy\t",
   "ru": "Алхимия",
   "bel": "Алхімія"
  },
  "$00E_ARKANISTENFIEBER": {
-  "en": "00E_ARKANISTENFIEBER",
+  "en": "Arcane Fever",
   "ru": "Чародейская лихорадка",
   "bel": "Чарадзейская ліхаманка"
  },
  "$00E_AUSDAUER": {
-  "en": "00E_AUSDAUER",
+  "en": "Stamina",
   "ru": "Выносливость",
   "bel": "Вынослівасць"
  },
  "$00E_BOGENKUNST": {
-  "en": "00E_BOGENKUNST",
+  "en": "Marksman:",
   "ru": "Стрельба: ",
   "bel": "Стральба:"
  },
  "$00E_BOGENKUNSTDESCRTEXT": {
-  "en": "00E_BOGENKUNSTDESCRTEXT",
+  "en": "The higher your Marksman skill is the more damage you do with bows. Marksman is subject to the memories of the \"Trickster\".",
   "ru": "Чем выше ваш навык стрельбы, тем больший урон вы наносите из луков. Стрельба зависит от воспоминаний \"Ловкача\".",
   "bel": "Чым вышэй ваша ўменне стральбы, тым большую шкоду вы наносіце з лукаў. Стральба залежыць ад успамінаў «Спрытніка»."
  },
  "$00E_BOGENKUNSTDESCRTITEL": {
-  "en": "00E_BOGENKUNSTDESCRTITEL",
+  "en": "Marksman",
   "ru": "Стрельба",
   "bel": "Стральба"
  },
  "$00E_EINHAND": {
-  "en": "00E_EINHAND",
+  "en": "One-handed: ",
   "ru": "Одноручное: ",
   "bel": "Аднаручнае:"
  },
  "$00E_EINHANDDESCRTEXT": {
-  "en": "00E_EINHANDDESCRTEXT",
+  "en": "One-handed determines your skill with one-handed weapons like swords, maces, daggers or one-handed axes. The higher the skill is the more damage you do with these weapons. One-handed is subject to the memories of the \"Blade Dancer\".",
   "ru": "Одноручное оружие определяет навык владения одноручным оружием, например мечами, булавами, клинками и топорами. Чем выше навык, тем больше вы наносите урона. Одноручное оружие зависит от воспоминаний \"Танцора с клинками\".",
   "bel": "Аднаручная зброя вызначае ўменне валодання аднаручнай зброяй, напрыклад мячамі, булавамі, клінкамі і сякерамі. Чым вышэй уменне, тым большую шкоду вы наносіце. Аднаручная зброя залежыць ад успамінаў «Танцора з клінкамі»."
  },
  "$00E_EINHANDDESCRTITEL": {
-  "en": "00E_EINHANDDESCRTITEL",
+  "en": "One-handed",
   "ru": "Одноручное",
   "bel": "Аднаручнае"
  },
  "$00E_ELEMENTARISMUS": {
-  "en": "00E_ELEMENTARISMUS",
+  "en": "Elementalism: ",
   "ru": "Элементализм: ",
   "bel": "Элементалізм:"
  },
  "$00E_ELEMENTARISMUSDESCRTEXT": {
-  "en": "00E_ELEMENTARISMUSDESCRTEXT",
+  "en": "Students of the Elementalism are capable of using the power of the elements against their enemies. The higher your Elementalism skill is, the lower the Mana cost of elemental spells get. Elementalism is subject to the memories of the \"Elementalist\".",
   "ru": "Ученики элементализма способны превращать воздух в лёд, выпускать молнии или призывать огонь со своих пальцев. Элементализм зависит от воспоминаний \"Элементалиста\".",
   "bel": "Вучні элементалізму здольныя ператвараць паветра ў лёд, выпускаць маланкі або заклікаць агонь са сваіх пальцаў. Элементалізм залежыць ад успамінаў «Элементаліста»."
  },
  "$00E_ELEMENTARISMUSDESCRTITEL": {
-  "en": "00E_ELEMENTARISMUSDESCRTITEL",
+  "en": "Elementalism",
   "ru": "Элементализм",
   "bel": "Элементалізм"
  },
  "$00E_ENTROPIE": {
-  "en": "00E_ENTROPIE",
+  "en": "Entropy: ",
   "ru": "Энтропия: ",
   "bel": "Энтрапія:"
  },
  "$00E_ENTROPIEDESCRTEXT": {
-  "en": "00E_ENTROPIEDESCRTEXT",
+  "en": "The forbidden school of the Entropy allows you to summon creatures from other realities, to trap the souls of your enemies and to use entropic death magic. Entropy is subject to the memories of the \"Sinistrope\".",
   "ru": "Забытая школа энтропии позволит вам призывать существ из других реальностей, ловить души ваших врагов и использовать энтропическую смертельную магию. Энтропия зависит от воспоминаний \"Колдуна\".",
   "bel": "Забытая школа энтрапіі дазволіць вам заклікаць істот з іншых рэальнасцей, лавіць душы вашых ворагаў і выкарыстоўваць энтрапічную смяротную магію. Энтрапія залежыць ад успамінаў «Чараўніка»."
  },
  "$00E_ENTROPIEDESCRTITEL": {
-  "en": "00E_ENTROPIEDESCRTITEL",
+  "en": "Entropy",
   "ru": "Энтропия",
   "bel": "Энтрапія"
  },
  "$00E_ERFAHRUNGSPUNKTE": {
-  "en": "00E_ERFAHRUNGSPUNKTE",
+  "en": "Experience Points",
   "ru": "Очки опыта",
   "bel": "Ачкі вопыту"
  },
  "$00E_ERINNERUNGSPUNKTE": {
-  "en": "00E_ERINNERUNGSPUNKTE",
+  "en": "Memory Points: ",
   "ru": "Очков воспоминаний: ",
   "bel": "Пунктаў успамінаў:"
  },
  "$00E_ERINNERUNGSPUNKTEDESCRTEXT": {
-  "en": "00E_ERINNERUNGSPUNKTEDESCRTEXT",
+  "en": "You need Memory Points to unlock and develop talents and memories from the eleven different memory trees. You receive one of them with each level-up.",
   "ru": "Вам нужны очки воспоминаний для разблокировки и улучшения талантов и воспоминаний от девяти различных деревьев воспоминаний. Вы получаете по одному очку за каждый уровень.",
   "bel": "Вам патрэбны ачкі ўспамінаў, каб адкрыць і палепшыць таленты і ўспаміны ад дзевяці розных дрэваў успамінаў. Вы атрымліваеце па адным ачку за кожны ўзровень."
  },
  "$00E_ERINNERUNGSPUNKTEDESCRTITEL": {
-  "en": "00E_ERINNERUNGSPUNKTEDESCRTITEL",
+  "en": "Memory Points",
   "ru": "Очки воспоминаний",
   "bel": "Ачкі ўспамінаў"
  },
  "$00E_FEVERDESCRTEXT": {
-  "en": "00E_FEVERDESCRTEXT",
+  "en": "Arcane Fever determines your mental health as magic user. Casting healing spells, using Health potions or being at specific locations raise the fever. When your fever increases you first get mali, once it hits 100% you die.",
   "ru": "Чародейская лихорадка определяет ментальное здоровье. Использование исцеляющих заклинаний, зелий здоровья и нахождение в определенных локациях усиливают лихорадку. Когда значение достигнет 100% - вы умрете.",
   "bel": "Чарадзейская ліхаманка вызначае псіхічнае здароўе. Выкарыстанне лячальных заклінанняў, зелляў здароўя і знаходжанне ў пэўных лакальнасцях узмацняе ліхаманку. Калі значэнне дасягне 100% — вы памрэце."
  },
  "$00E_HANDWERK": {
-  "en": "00E_HANDWERK",
+  "en": "Workmanship",
   "ru": "Крафтинг",
   "bel": "Крафтынг"
  },
  "$00E_HANDWERKSPUNKTE": {
-  "en": "00E_HANDWERKSPUNKTE",
+  "en": "Crafting Points:",
   "ru": "Очков крафтинга: ",
   "bel": "Пунктаў крафту:"
  },
  "$00E_HANDWERKSPUNKTEDESCRTEXT": {
-  "en": "00E_HANDWERKSPUNKTEDESCRTEXT",
+  "en": "You receive Crafting Points with each level-up. You need them to use workmanship guides, which raise your artisanal skills.   \t",
   "ru": "Вы получаете очки крафтинга с каждым уровнем. Вы должны использовать их с руководствами ремесленников, чтобы увеличить ваши навыки ремесленника.",
   "bel": "Вы атрымліваеце ачкі крафтынгу з кожным узроўнем. Вы павінны выкарыстоўваць іх з дапаможнікамі рамеснікаў, каб павялічыць вашы навыкі рамесніка."
  },
  "$00E_HANDWERKSPUNKTEDESCRTITEL": {
-  "en": "00E_HANDWERKSPUNKTEDESCRTITEL",
+  "en": "Crafting Points",
   "ru": "Очки крафтинга",
   "bel": "Ачкі крафтынгу"
  },
  "$00E_KAMPF": {
-  "en": "00E_KAMPF",
+  "en": "Combat",
   "ru": "Бой",
   "bel": "Бой"
  },
  "$00E_KLASSE": {
-  "en": "00E_KLASSE",
+  "en": "Class: ",
   "ru": "Класс: ",
   "bel": "Клас:"
  },
  "$00E_KLASSEDESCRTEXT": {
-  "en": "00E_KLASSEDESCRTEXT",
+  "en": "Your class is determined by the two memory tress in which you spent the most points. If you invest at least 10 points in two \"affine\" trees you unlock a special class. Search the world for hints about these combinations!\t",
   "ru": "Класс определен двумя деревьями воспоминаний, на которые вы тратите больше очков. Если вы вложите хотя бы 10 очков в два \"смежных\" дерева, вы откроете особый класс. Исследуйте мир в поисках подсказок об этих комбинациях!",
   "bel": "Клас вызначаны двума дрэвамі ўспамінаў, у якія вы ўкладваеце больш ачкоў. Калі вы ўкладзеце прынамсі 10 ачкоў у два «сумежныя» дрэвы, вы адкрыеце асаблівы клас. Даследуйце свет у пошуках падказак пра гэтыя камбінацыі!"
  },
  "$00E_KLASSEDESCRTITEL": {
-  "en": "00E_KLASSEDESCRTITEL",
+  "en": "Class",
   "ru": "Класс",
   "bel": "Клас"
  },
  "$00E_LEBEN": {
-  "en": "00E_LEBEN",
+  "en": "Health",
   "ru": "Здоровье",
   "bel": "Здароўе"
  },
  "$00E_LEBENDESCRTEXT": {
-  "en": "00E_LEBENDESCRTEXT",
+  "en": "Your Health indicates the total damage you can take before dying. Your Health only regenerates itself if you are satiated. \t",
   "ru": "Здоровье отображает общее количество урона, которое вы можете получить, прежде чем умрете. Здоровье регенерируется только если вы сыты.",
   "bel": "Здароўе адлюстроўвае агульную колькасць шкоды, якую вы можаце атрымаць, перш чым памрэце. Здароўе аднаўляецца толькі калі вы сытыя."
  },
  "$00E_LEICHTERUESTUNG": {
-  "en": "00E_LEICHTERUESTUNG",
+  "en": "Light Armor: ",
   "ru": "Легкая броня: ",
   "bel": "Лёгкая браня:"
  },
  "$00E_LEICHTERUESTUNGDESCRTEXT": {
-  "en": "00E_LEICHTERUESTUNGDESCRTEXT",
+  "en": "Light Armor determines your skill with leather armors. The higher the skill is the more damage is blocked by light armor. Light Armor is subject to the memories of the \"Vagrant\".",
   "ru": "Легкая броня определяет ваш навык ношения кожаной брони. Чем выше навык, тем больше урона поглощается легкой броней. Легкая броня зависит от воспоминаний \"Бродяги\".",
   "bel": "Лёгкая браня вызначае ваша ўменне нашэння скураной брані. Чым вышэй уменне, тым больш шкоды паглынаецца лёгкай бранёй. Лёгкая браня залежыць ад успамінаў «Вандроўніка»."
  },
  "$00E_LEICHTERUESTUNGDESCRTITEL": {
-  "en": "00E_LEICHTERUESTUNGDESCRTITEL",
+  "en": "Light Armor",
   "ru": "Легкая броня",
   "bel": "Лёгкая браня"
  },
  "$00E_LERNPUNKTE": {
-  "en": "00E_LERNPUNKTE",
+  "en": "Learning Points: ",
   "ru": "Очков обучения: ",
   "bel": "Пунктаў навучання:"
  },
  "$00E_LERNPUNKTEDESCRTEXT": {
-  "en": "00E_LERNPUNKTEDESCRTEXT",
+  "en": "You receive Learning Points with each level-up. You need them to use learning books which raise your combat-related skills and which you can buy from merchants or find in the wilderness.\t",
   "ru": "Вы получаете очки обучения с каждым уровнем. Их можно использовать с книгами обучения, которые увеличат ваши боевые навыки. Книги можно купить у торговцев или найти на дикой местности.",
   "bel": "Вы атрымліваеце ачкі навучання з кожным узроўнем. Іх можна выкарыстоўваць з кнігамі навучання, якія павялічваюць вашы баявыя навыкі. Кнігі можна купіць у гандляроў або знайсці на дзікай прыродзе."
  },
  "$00E_LERNPUNKTEDESCRTITEL": {
-  "en": "00E_LERNPUNKTEDESCRTITEL",
+  "en": "Learning Points\t\t\t",
   "ru": "Очки обучения",
   "bel": "Ачкі навучання"
  },
  "$00E_LICHTMAGIE": {
-  "en": "00E_LICHTMAGIE",
+  "en": "Light Magic: ",
   "ru": "Магия света: ",
   "bel": "Магія святла:"
  },
  "$00E_LICHTMAGIEDESCRTEXT": {
-  "en": "00E_LICHTMAGIEDESCRTEXT",
+  "en": "Spells from the school of the Light Magic allow you to heal yourself, to enhance your resistances and to banish undead creatures. The higher the Light Magic skill is, the lower is the Mana cost of its spells. Light Magic is subject to the memories of the \"Thaumaturge\".",
   "ru": "Заклинания школы магии света позволят вам лечить себя, увеличивать ваше сопротивление и уничтожать оживших мертвецов. Магия света зависит от воспоминаний \"Чудотворца\".",
   "bel": "Зачары школы магіі святла дазволяць вам лечыць сябе, павялічваць ваша супраціўленне і знішчаць ажывіўшых мерцвякоў. Магія святла залежыць ад успамінаў «Чудацворца»."
  },
  "$00E_LICHTMAGIEDESCRTITEL": {
-  "en": "00E_LICHTMAGIEDESCRTITEL",
+  "en": "Light Magic",
   "ru": "Магия света",
   "bel": "Магія святла"
  },
  "$00E_MANA": {
-  "en": "00E_MANA",
+  "en": "Mana",
   "ru": "Мана",
   "bel": "Мана"
  },
  "$00E_MANADESCRTEXT": {
-  "en": "00E_MANADESCRTEXT",
+  "en": "Your Mana indicates how many spells you can cast before your mind is exhausted. Your Mana slowly regenerates itself over time, Mana Fungi or booze speed up that process.\t",
   "ru": "Мана отображает сколько заклинаний вы можете использовать перед тем, как ваш разум будет истощен. Мана с течением времени медленно восстанавливается, грибы маны или выпивка ускоряют этот процесс.",
   "bel": "Мана паказвае, колькі заклінанняў вы можаце выкарыстаць, перш чым ваш розум будзе знясілены. Мана з часам павольна аднаўляецца, грыбы маны ці зелле паскараюць гэты працэс."
  },
  "$00E_MENTALISMUS": {
-  "en": "00E_MENTALISMUS",
+  "en": "Mentalism:",
   "ru": "Ментализм: ",
   "bel": "Менталізм:"
  },
  "$00E_MENTALISMUSDESCRTEXT": {
-  "en": "00E_MENTALISMUSDESCRTEXT",
+  "en": "The school of the Mentalism allow you to summon spectral shields or to make your skin as hard as iron. The higher your Mentalism skill is, the less Mana mental spells cost. Mentalism is subject to the memories of the \"Thaumaturge\".",
   "ru": "Школа ментализма позволит призывать щиты, открывать замки и сундуки по мановению мысли, делать вас невидимыми или вашу кожу прочной как железо. Ментализм зависит от воспоминаний \"Чудотворца\".",
   "bel": "Школа менталізму дазволіць заклікаць шчыты, адчыняць замкі і скрыні павелам думкі, рабіць вас нябачнымі або вашу скур ў моцнай, як жалеза. Менталізм залежыць ад успамінаў «Чудацворца»."
  },
  "$00E_MENTALISMUSDESCRTITEL": {
-  "en": "00E_MENTALISMUSDESCRTITEL",
+  "en": "Mentalism",
   "ru": "Ментализм",
   "bel": "Менталізм"
  },
  "$00E_NAME": {
-  "en": "00E_NAME",
+  "en": "Name: ",
   "ru": "Имя: ",
   "bel": "Імя:"
  },
  "$00E_NAMEDESCRTEXT": {
-  "en": "00E_NAMEDESCRTEXT",
+  "en": "Your name.\t",
   "ru": "Ваше имя.",
   "bel": "Ваша імя."
  },
  "$00E_NAMEDESCRTITEL": {
-  "en": "00E_NAMEDESCRTITEL",
+  "en": "Name \t",
   "ru": "Имя ",
   "bel": "Імя"
  },
  "$00E_PARADE": {
-  "en": "00E_PARADE",
+  "en": "Block:",
   "ru": "Защита: ",
   "bel": "Абарона:"
  },
  "$00E_PARADEDESCRTEXT": {
-  "en": "00E_PARADEDESCRTEXT",
+  "en": "Blocking determines how much damage you can ward off by blocking with a shield or weapon. Blocking is subject to the memories of the \"Keeper\".",
   "ru": "Защита определяет как много урона вы можете предотвратить, используя для блока щит или оружие. Защита зависит от воспоминаний \"Стража\".",
   "bel": "Абарона вызначае, колькі шкоды вы можаце папярэдзіць, выкарыстоўваючы для блоку шчыт ці зброю. Абарона залежыць ад успамінаў «Стража»."
  },
  "$00E_PARADEDESCRTITEL": {
-  "en": "00E_PARADEDESCRTITEL",
+  "en": "Blocking",
   "ru": "Защита",
   "bel": "Абарона"
  },
  "$00E_PSIONIK": {
-  "en": "00E_PSIONIK",
+  "en": "Psionics: ",
   "ru": "Псионика: ",
   "bel": "Псіёніка:"
  },
  "$00E_PSIONIKDESCRTEXT": {
-  "en": "00E_PSIONIKDESCRTEXT",
+  "en": "The Psionics allow its devotees to control the mind of their enemies - the higher your Psionics skill is, the less Mana psionic spells cost. Psionics is subject to the memories of the \"Sinistrope\".",
   "ru": "Псионика - одна из менее известных школ магов - она позволяет контролировать умы ваших врагов, превращая их в послушных кукол. Псионика зависит от воспоминаний \"Колдуна\".",
   "bel": "Псіоніка — адна з менш вядомых школ чараўнікоў — яна дазваляе кантраляваць розум вашых ворагаў, ператвараючы іх у пакорлівых лялек. Псіоніка залежыць ад успамінаў «Чараўніка»."
  },
  "$00E_PSIONIKDESCRTITEL": {
-  "en": "00E_PSIONIKDESCRTITEL",
+  "en": "Psionics",
   "ru": "Псионика",
   "bel": "Псіёніка"
  },
  "$00E_RETHORIK": {
-  "en": "00E_RETHORIK",
+  "en": "Rhetoric: ",
   "ru": "Риторика: ",
   "bel": "Рыторыка:"
  },
  "$00E_RETHORIKDESCRTEXT": {
-  "en": "00E_RETHORIKDESCRTEXT",
+  "en": "Rhetoric allows you to persuade others through conversations, to get additional information or even alternative ways to success through dialogues. It also improves the prices from merchants. Rhetoric is not subject to a memory.\t",
   "ru": "Риторика позволяет убеждать других через разговоры, позволяя получить дополнительную информацию, либо даже вы откроете другие пути к успеху через диалоги. Она также улучшает цены у торговцев. Риторика не зависит от воспоминаний.",
   "bel": "Рыторыка дазваляе пераконваць іншых праз размовы, дазваляючы атрымаць дадатковую інфармацыю, або нават адкрыць іншыя шляхі да поспеху праз дыялогі. Яна таксама паляпшае цэны ў гандляроў. Рыторыка не залежыць ад успамінаў."
  },
  "$00E_RETHORIKDESCRTITEL": {
-  "en": "00E_RETHORIKDESCRTITEL",
+  "en": "Rhetoric\t",
   "ru": "Риторика",
   "bel": "Рыторыка"
  },
  "$00E_SCHLEICHEN": {
-  "en": "00E_SCHLEICHEN",
+  "en": "Sneak: ",
   "ru": "Скрытность: ",
   "bel": "Скрытнасць:"
  },
  "$00E_SCHLEICHENDESCRTEXT": {
-  "en": "00E_SCHLEICHENDESCRTEXT",
+  "en": "Sneak allows you to move unnoticed and to ambush your enemies. Sneak is subject to the memories of the \"Infiltrator\".\t",
   "ru": "Скрытность позволяет вам двигаться незаметно и подстерегать врагов. Скрытность зависит от воспоминаний \"Лазутчика\".",
   "bel": "Скрытнасць дазваляе вам рухацца непрыкметна і падстерагаць ворагаў. Скрытнасць залежыць ад успамінаў «Лазутчыка»."
  },
  "$00E_SCHLEICHENDESCRTITEL": {
-  "en": "00E_SCHLEICHENDESCRTITEL",
+  "en": "Sneak",
   "ru": "Скрытность",
   "bel": "Скрытнасць"
  },
  "$00E_SCHLOSSKNACKEN": {
-  "en": "00E_SCHLOSSKNACKEN",
+  "en": "Lockpicking: ",
   "ru": "Взлом замков: ",
   "bel": "Узлом замкоў:"
  },
  "$00E_SCHLOSSKNACKENDESCRTEXT": {
-  "en": "00E_SCHLOSSKNACKENDESCRTEXT",
+  "en": "Lockpicking allows you to open locked doors or chests without a key. The higher Lockpicking is, the easier it is to unlock them and the more pennies can be found in chests. Lockpicking is subject to the memories of the \"Trickster\".\t",
   "ru": "Взлом замков позволяет вам открывать запертые двери и замки без ключей. Взлом замков зависит от воспоминаний \"Ловкача\".",
   "bel": "Узлом замкоў дазваляе вам адчыняць замкнёныя дзверы і замкі без ключоў. Узлом замкоў залежыць ад успамінаў «Спрытніка»."
  },
  "$00E_SCHLOSSKNACKENDESCRTITEL": {
-  "en": "00E_SCHLOSSKNACKENDESCRTITEL",
+  "en": "Lockpicking\t",
   "ru": "Взлом замков",
   "bel": "Узлом замкоў"
  },
  "$00E_SCHMIEDEN": {
-  "en": "00E_SCHMIEDEN",
+  "en": "Handicraft:",
   "ru": "Ремесло: ",
   "bel": "Рамяство:"
  },
  "$00E_SCHMIEDENDESCRTEXT": {
-  "en": "00E_SCHMIEDENDESCRTEXT",
+  "en": "Handicraft determines the complexity of the items you can craft at forges or workbenches - from bows to warhammers, to armors and even to non-combat items like furniture. Handicraft is not subject to a memory.\t",
   "ru": "Ремесло определяет сложность предметов, которые вы можете создать в кузнях или на верстаке - от луков до боевых топоров, брони и даже предметов, не предназначенных для боя, например, мебели. Ремесло не зависит от воспоминаний.",
   "bel": "Рамяство вызначае складанасць прадметаў, якія вы можаце стварыць у кузнях ці на варстате — ад лукаў да баявых сякераў, брані і нават рэчаў, не прызначаных для бою, напрыклад, мэблі. Рамяство не залежыць ад успамінаў."
  },
  "$00E_SCHMIEDENDESCRTITEL": {
-  "en": "00E_SCHMIEDENDESCRTITEL",
+  "en": "Handicraft",
   "ru": "Ремесло",
   "bel": "Рамяство"
  },
  "$00E_SCHWERERUESTUNG": {
-  "en": "00E_SCHWERERUESTUNG",
+  "en": "Heavy Armor: ",
   "ru": "Тяжелая броня: ",
   "bel": "Цяжкая браня:"
  },
  "$00E_SCHWERERUESTUNGDESCRTEXT": {
-  "en": "00E_SCHWERERUESTUNGDESCRTEXT",
+  "en": "Heavy Armor determines how much protection you can receive from iron and steel armor. Heavy armor is subject to the memories of the \"Keeper\".",
   "ru": "Тяжелая броня определяет, как много защиты вы можете получить от железной и стальной брони. Тяжелая броня зависит от воспоминаний \"Стража\".",
   "bel": "Цяжкая браня вызначае, колькі абароны вы можаце атрымаць ад жалезнай і стальной брані. Цяжкая браня залежыць ад успамінаў «Стража»."
  },
  "$00E_SCHWERERUESTUNGDESCRTITEL": {
-  "en": "00E_SCHWERERUESTUNGDESCRTITEL",
+  "en": "Heavy Armor",
   "ru": "Тяжелая броня",
   "bel": "Цяжкая браня"
  },
  "$00E_STAMINADESCRTEXT": {
-  "en": "00E_STAMINADESCRTEXT",
+  "en": "You need Stamina for sprinting, for power attacks and for blocking. When your Stamina is empty, power attacks are reduced to normal ones. Your Stamina regenerates itself over time. ",
   "ru": "Выносливость используется для бега, прыжков, силовых атак и блокирования. Когда выносливость заканчивается, силовые атаки становятся обычными. Выносливость самостоятельно восстанавливается с течением времени.",
   "bel": "Вынослівасць выкарыстоўваецца для бегу, скачкоў, сілавых атак і блакавання. Калі вынослівасць заканчваецца, сілавыя атакі становяцца звычайнымі. Вынослівасць сама аднаўляецца з часам."
  },
  "$00E_STUFE": {
-  "en": "00E_STUFE",
+  "en": "Level: ",
   "ru": "Уровень: ",
   "bel": "Узровень:"
  },
  "$00E_STUFEDESCRTEXT": {
-  "en": "00E_STUFEDESCRTEXT",
+  "en": "Your current level. If you gathered enough experience points you level-up. With every level-up you can raise one of your attributes, receive learning and crafting points and one memory point. \t",
   "ru": "Ваш уровень. Если вы собрали достаточное количество очков опыта, ваш уровень увеличивается. С каждым уровнем вы можете увеличить один из ваших атрибутов, получить очки обучения и крафтинга, а также очко воспоминаний.",
   "bel": "Ваш узровень. Калі вы сабралі дастатковую колькасць ачкоў вопыту, ваш узровень павялічваецца. З кожным узроўнем вы можаце павялічыць адзін з вашых атрыбутаў, атрымаць ачкі навучання і крафтынгу, а таксама ачко ўспамінаў."
  },
  "$00E_STUFEDESCRTITEL": {
-  "en": "00E_STUFEDESCRTITEL",
+  "en": "Level",
   "ru": "Уровень",
   "bel": "Узровень"
  },
  "$00E_TASCHENDIEBSTAHL": {
-  "en": "00E_TASCHENDIEBSTAHL",
+  "en": "Sleight of Hand:",
   "ru": "Карманная кража: ",
   "bel": "Кішэнная крадзеж:"
  },
  "$00E_TASCHENDIEBSTAHLDESCRTEXT": {
-  "en": "00E_TASCHENDIEBSTAHLDESCRTEXT",
+  "en": "Sleight of Hand allows you to rob people for money and items, it also increases the chance of finding hidden stashes in chests. Sleight of Hand is subject to the memories of the \"Infiltrator\".",
   "ru": "Карманные кражи позволят вам обкрадывать людей в поисках денег и предметов. Карманные кражи зависят от воспоминаний \"Лазутчика\".",
   "bel": "Кішэнны крадзеж дазволіць вам абкрадаць людзей у пошуку грошай і рэчаў. Кішэнны крадзеж залежыць ад успамінаў «Лазутчыка»."
  },
  "$00E_TASCHENDIEBSTAHLDESCRTITEL": {
-  "en": "00E_TASCHENDIEBSTAHLDESCRTITEL",
+  "en": "Sleight of Hand",
   "ru": "Карманная кража",
   "bel": "Кішэнная крадзеж"
  },
  "$00E_VERZAUBERUNG": {
-  "en": "00E_VERZAUBERUNG",
+  "en": "Enchanting: ",
   "ru": "Зачарование: ",
   "bel": "Зачарованне:"
  },
  "$00E_VERZAUBERUNGDESCRTEXT": {
-  "en": "00E_VERZAUBERUNGDESCRTEXT",
+  "en": "Enchanting determines your skill in using magic items. Higher skill values allow for more powerful enchantments. Enchanting is subject to the memories of the \"Phasmalist\".\t",
   "ru": "Зачарование определяет ваш навык использования магических предметов. Чем выше значение навыка, тем более могущественные зачарования вам доступны. Зачарование не зависит от воспоминаний.",
   "bel": "Зачараванне вызначае ваша ўменне выкарыстання магічных прадметаў. Чым вышэй значэнне ўмення, тым магутнейшыя зачарванні вам даступныя. Зачараванне не залежыць ад успамінаў."
  },
  "$00E_VERZAUBERUNGDESCRTITEL": {
-  "en": "00E_VERZAUBERUNGDESCRTITEL",
+  "en": "Enchanting",
   "ru": "Зачарование",
   "bel": "Зачараванне"
  },
  "$00E_XPDESCRTEXT": {
-  "en": "00E_XPDESCRTEXT",
+  "en": "You need Experience Points to level up. You receive them for completing quests, killing enemies, discovering new locations or other achievements. The higher your level, the more exp are needed for the next level-up.",
   "ru": "Вам нужны очки опыта для повышения уровня. Вы будете их получать за выполнение заданий, убийство врагов, исследование локаций и другие достижения. Чем выше ваш уровень, тем больше опыта вам нужно для получения нового.",
   "bel": "Вам патрэбны ачкі вопыту, каб павысіць узровень. Вы будзеце атрымліваць іх за выкананне заданняў, забойства ворагаў, даследаванне лакальнасцей і іншых дасягненняў. Чым вышэй ваш узровень, тым больш вопыту патрэбна для новага."
  },
  "$00E_ZWEIHAND": {
-  "en": "00E_ZWEIHAND",
+  "en": "Two-handed: ",
   "ru": "Двуручное: ",
   "bel": "Двухручнае:"
  },
  "$00E_ZWEIHANDDESCRTEXT": {
-  "en": "00E_ZWEIHANDDESCRTEXT",
+  "en": "Two-handed determines the damage you do with two-handed weapons like warhammers or bidenhaender. Two-handed is subject to the memories of the \"Vandal\".",
   "ru": "Двуручное оружие определяет, как много урона вы наносите с помощью двуручного оружия, например при использовании боевых топоров. Двуручное оружие зависит от воспоминаний \"Вандала\".",
   "bel": "Двухручная зброя вызначае, колькі шкоды вы наносіце з дапамогай двухручнай зброі, напрыклад пры выкарыстанні баявых сякераў. Двухручная зброя залежыць ад успамінаў «Вандала»."
  },
  "$00E_ZWEIHANDDESCRTITEL": {
-  "en": "00E_ZWEIHANDDESCRTITEL",
+  "en": "Two-handed",
   "ru": "Двуручное",
   "bel": "Двухручнае"
  },
@@ -450,7 +450,7 @@
   "bel": "30 хв."
  },
  "$360 Controller": {
-  "en": "360 Controller",
+  "en": "Controller",
   "ru": "Геймпад",
   "bel": "Кантролер"
  },
@@ -475,12 +475,12 @@
   "bel": "60 хв."
  },
  "$AID": {
-  "en": "AID",
+  "en": "Aid",
   "ru": "ЗЕЛЬЯ И ЕДА",
   "bel": "ЗЕЛЛЕ І ЕЖА"
  },
  "$ALL": {
-  "en": "ALL",
+  "en": "All",
   "ru": "ВСЕ",
   "bel": "УСЕ"
  },
@@ -490,7 +490,7 @@
   "bel": "БОЕПРЫПАСЫ"
  },
  "$ARM": {
-  "en": "ARM",
+  "en": "Arm",
   "ru": "БРОНЯ",
   "bel": "БРОНЯ"
  },
@@ -520,7 +520,7 @@
   "bel": "Персанажы"
  },
  "$Adapt_Combat_Style": {
-  "en": "Adapt_Combat_Style",
+  "en": "Combat Style",
   "ru": "Боевой стиль",
   "bel": "Баявы стыль"
  },
@@ -540,52 +540,52 @@
   "bel": "Этэрыевае"
  },
  "$Affinity Arcane Archer": {
-  "en": "Affinity Arcane Archer",
+  "en": "Arcane Archer",
   "ru": "Стрелок-чародей",
   "bel": "Стральнік-чарадзей"
  },
  "$Affinity Assassin": {
-  "en": "Affinity Assassin",
+  "en": "Assassin",
   "ru": "Убийца",
   "bel": "Забойца"
  },
  "$Affinity Battlemage": {
-  "en": "Affinity Battlemage",
+  "en": "Battlemage",
   "ru": "Боевой маг",
   "bel": "Баявы маг"
  },
  "$Affinity Black Mage": {
-  "en": "Affinity Black Mage",
+  "en": "Black Mage",
   "ru": "Черный маг",
   "bel": "Чорны маг"
  },
  "$Affinity Blade Breaker": {
-  "en": "Affinity Blade Breaker",
+  "en": "Blade Breaker",
   "ru": "Разрушитель клинков",
   "bel": "Разбуральнік клінкоў"
  },
  "$Affinity Blade Master": {
-  "en": "Affinity Blade Master",
+  "en": "Blade Master",
   "ru": "Мастер клинков",
   "bel": "Майстар клінкоў"
  },
  "$Affinity Cleric": {
-  "en": "Affinity Cleric",
+  "en": "Cleric",
   "ru": "Священнослужитель",
   "bel": "Святар"
  },
  "$Affinity Dark Keeper": {
-  "en": "Affinity Dark Keeper",
+  "en": "Dark Keeper",
   "ru": "Темный хранитель",
   "bel": "Цёмны храніцель"
  },
  "$Affinity Shadowdancer": {
-  "en": "Affinity Shadowdancer",
+  "en": "Shadowdancer",
   "ru": "Теневой танцор",
   "bel": "Ценявы танцор"
  },
  "$Affinity Wayfarer": {
-  "en": "Affinity Wayfarer",
+  "en": "Wayfarer",
   "ru": "Странник",
   "bel": "Падарожнік"
  },
@@ -625,7 +625,7 @@
   "bel": "Адзенне"
  },
  "$Archery": {
-  "en": "Archery",
+  "en": "Marksman",
   "ru": "Стрельба",
   "bel": "Стральба"
  },
@@ -685,7 +685,7 @@
   "bel": "Аўтарух"
  },
  "$Automatons Killed": {
-  "en": "Automatons Killed",
+  "en": "Starling Constructions Destroyed",
   "ru": "Уничтожено строений звездников",
   "bel": "Забіта аўтаматонаў"
  },
@@ -695,12 +695,12 @@
   "bel": "Таймер аўтазахавання"
  },
  "$BEAM_DevAccountCreate": {
-  "en": "BEAM_DevAccountCreate",
+  "en": "Your temporary account has been created! Check your email and follow the verification link to complete the account creation process.",
   "ru": "Создана временная учетная запись! Проверьте свою электронную почту и перейдите по ссылке в письме, чтобы завершить процесс создания учетной записи.",
   "bel": "Часовы ўліковы запіс створаны! Праверце сваю электронную пошту і выканайце інструкцыі, каб завяршыць верыфікацыю."
  },
  "$BUG_REPORT": {
-  "en": "BUG_REPORT",
+  "en": "REPORT AN ISSUE",
   "ru": "СООБЩИТЬ О ПРОБЛЕМЕ",
   "bel": "ПАВЕДАМІЦЬ ПРА ПРАБЛЕМУ"
  },
@@ -815,17 +815,17 @@
   "bel": "СКАСАВАЦЬ"
  },
  "$CHARGES": {
-  "en": "CHARGES",
+  "en": "Charges",
   "ru": "Зарядов",
   "bel": "Ладунак"
  },
  "$CLASS": {
-  "en": "CLASS",
+  "en": "Class",
   "ru": "КЛАСС",
   "bel": "КЛАС"
  },
  "$COMBAT": {
-  "en": "COMBAT",
+  "en": "Combat",
   "ru": "БОЙ",
   "bel": "БОЙ"
  },
@@ -840,17 +840,17 @@
   "bel": "КІРАВАННЕ"
  },
  "$COST": {
-  "en": "COST",
+  "en": "Cost",
   "ru": "Цена",
   "bel": "Кошт"
  },
  "$CRAFTING": {
-  "en": "CRAFTING",
+  "en": "Crafting",
   "ru": "КРАФТИНГ",
   "bel": "РАМЁСТВЫ"
  },
  "$CREATE ACCOUNT": {
-  "en": "CREATE ACCOUNT",
+  "en": "Create Account",
   "ru": "Создать учетную запись",
   "bel": "Стварыць уліковы запіс"
  },
@@ -860,7 +860,7 @@
   "bel": "КЛУБ ТВОРЧАСЦІ"
  },
  "$CREATION CLUB NEWS": {
-  "en": "CREATION CLUB NEWS",
+  "en": "SKYRIM UPDATES",
   "ru": "НОВОЕ В SKYRIM",
   "bel": "НАВІНЫ SKYRIM"
  },
@@ -870,7 +870,7 @@
   "bel": "АЎТАРЫ"
  },
  "$CRIME": {
-  "en": "CRIME",
+  "en": "Crime",
   "ru": "ПРЕСТУПЛЕНИЯ",
   "bel": "ЗЛАЧЫНСТВЫ"
  },
@@ -885,47 +885,47 @@
   "bel": "Скасаваць"
  },
  "$CantInstallMod_Dependency": {
-  "en": "CantInstallMod_Dependency",
+  "en": "This mod cannot be installed since it depends on files that aren't present.",
   "ru": "Эта модификация не может быть установлена: ей нужны отсутствующие в данный момент файлы.",
   "bel": "Гэтую мадыфікацыю немагчыма ўсталяваць, бо яна спасылаецца на неіснуючыя файлы."
  },
  "$Card Game: ex aequo": {
-  "en": "Card Game: ex aequo",
+  "en": "Tavern Games - \"Battle for Treomar\": Ex Aqueo",
   "ru": "Игры в таверне - \"Битва за Треомар\": Третейских судов",
   "bel": "Ігры ў таверне - «Бітва за Трэомар»: Трэцейскіх судоў"
  },
  "$Card Game: last opponent": {
-  "en": "Card Game: last opponent",
+  "en": "Tavern Games - \"Battle for Treomar\": Last Opponent",
   "ru": "Игры в таверне - \"Битва за Треомар\": Последний соперник",
   "bel": "Ігры ў таверне - «Бітва за Трэомар»: Апошні супернік"
  },
  "$Card Game: lost games": {
-  "en": "Card Game: lost games",
+  "en": "Tavern Games - \"Battle for Treomar\": Lost Games",
   "ru": "Игры в таверне - \"Битва за Треомар\": Поражений",
   "bel": "Гульні ў таверне - \"Бітва за Трэомар\": Паражэнняў"
  },
  "$Card Game: total games played": {
-  "en": "Card Game: total games played",
+  "en": "Tavern Games - \"Battle for Treomar\": Games Played",
   "ru": "Игры в таверне - \"Битва за Треомар\": Игр сыграно",
   "bel": "Гульні ў таверне - \"Бітва за Трэомар\": Гульняў згуляна"
  },
  "$Card Game: total lost gold": {
-  "en": "Card Game: total lost gold",
+  "en": "Tavern Games - \"Battle for Treomar\": Lost Pennies",
   "ru": "Игры в таверне - \"Битва за Треомар\": Проигранных медяков",
   "bel": "Гульні ў таверне - \"Бітва за Трэомар\": Прайграных медзякоў"
  },
  "$Card Game: total won gold": {
-  "en": "Card Game: total won gold",
+  "en": "Tavern Games - \"Battle for Treomar\": Won Pennies",
   "ru": "Игры в таверне - \"Битва за Треомар\": Заработанных медяков",
   "bel": "Гульні ў таверне - \"Бітва за Трэомар\": Заработаных медзякоў"
  },
  "$Card Game: victory ratio": {
-  "en": "Card Game: victory ratio",
+  "en": "Tavern Games - \"Battle for Treomar\": Victory Ratio",
   "ru": "Игры в таверне - \"Битва за Треомар\": Коэффициент побед",
   "bel": "Ігры ў таверне - «Бітва за Трэомар»: Каэфіцыент перамог"
  },
  "$Card Game: won games": {
-  "en": "Card Game: won games",
+  "en": "Tavern Games - \"Battle for Treomar\": Won Games",
   "ru": "Игры в таверне - \"Битва за Треомар\": Побед",
   "bel": "Гульні ў таверне - \"Бітва за Трэомар\": Перамог"
  },
@@ -950,17 +950,17 @@
   "bel": "Змяніць фільтр"
  },
  "$ChangeUser": {
-  "en": "ChangeUser",
+  "en": "Change Profile",
   "ru": "Сменить профиль",
   "bel": "Змяніць профіль"
  },
  "$ChangedCreations_ConfirmReset": {
-  "en": "ChangedCreations_ConfirmReset",
+  "en": "New Creations have been downloaded.  The game needs to reload your data files to continue.  Reload?",
   "ru": "Загрузка творений завершена.  Игра должна перезагрузить данные.  Выполнить перезагрузку?",
   "bel": "Было сцягнута новае Стварэнне. Гульня патрабуе перазагрузкі, каб выкарыстоўваць яго. Перазагрузіць?"
  },
  "$CharacterSelection": {
-  "en": "CharacterSelection",
+  "en": "Character Selection",
   "ru": "Выбор персонажа",
   "bel": "Выбар героя"
  },
@@ -995,67 +995,67 @@
   "bel": "Абруч"
  },
  "$Civil War Quests Completed": {
-  "en": "Civil War Quests Completed",
+  "en": "Sidequests Completed In Ark ",
   "ru": "Выполнено заданий в Арке",
   "bel": "Выканана заданняў у Арку"
  },
  "$Class: Adventurer": {
-  "en": "Class: Adventurer",
+  "en": "Adventurer",
   "ru": "Искатель приключений",
   "bel": "Шукач прыгод"
  },
  "$Class: Bladedancer": {
-  "en": "Class: Bladedancer",
+  "en": "Bladedancer",
   "ru": "Танцор с клинками",
   "bel": "Танцор з клінкамі"
  },
  "$Class: Elementarist": {
-  "en": "Class: Elementarist",
+  "en": "Elementalist",
   "ru": "Элементалист",
   "bel": "Элементаліст"
  },
  "$Class: Infiltrator": {
-  "en": "Class: Infiltrator",
+  "en": "Infiltrator",
   "ru": "Лазутчик",
   "bel": "Лазутчык"
  },
  "$Class: Keeper": {
-  "en": "Class: Keeper",
+  "en": "Keeper",
   "ru": "Хранитель",
   "bel": "Храніцель"
  },
  "$Class: Mentalist": {
-  "en": "Class: Mentalist",
+  "en": "Mentalist",
   "ru": "Менталист",
   "bel": "Менталіст"
  },
  "$Class: Phasmalist": {
-  "en": "Class: Phasmalist",
+  "en": "Phasmalist",
   "ru": "Фазмалист",
   "bel": "Фазмаліст"
  },
  "$Class: Sinistrop": {
-  "en": "Class: Sinistrop",
+  "en": "Sinistrop",
   "ru": "Колдун",
   "bel": "Чараўнік"
  },
  "$Class: Theriantrophist": {
-  "en": "Class: Theriantrophist",
+  "en": "Lycanthrope",
   "ru": "Оборотень",
   "bel": "Абаротнік"
  },
  "$Class: Trickster": {
-  "en": "Class: Trickster",
+  "en": "Trickster",
   "ru": "Ловкач",
   "bel": "Лоўкач"
  },
  "$Class: Vagabond": {
-  "en": "Class: Vagabond",
+  "en": "Vagabond",
   "ru": "Бродяга",
   "bel": "Бадзяга"
  },
  "$Class: Vandal": {
-  "en": "Class: Vandal",
+  "en": "Vandal",
   "ru": "Вандал",
   "bel": "Вандал"
  },
@@ -1075,7 +1075,7 @@
   "bel": "Хлам"
  },
  "$College of Winterhold Quests Completed": {
-  "en": "College of Winterhold Quests Completed",
+  "en": "Bounty Quests Completed",
   "ru": "Выполнено заданий охоты за головами",
   "bel": "Выканана заданняў Калегіі Зімаўлада"
  },
@@ -1095,22 +1095,22 @@
   "bel": "Звычайны"
  },
  "$ConfigMenuKeyInfo": {
-  "en": "ConfigMenuKeyInfo",
+  "en": "ATTENTION: The MCM only displays the respective key of a QWERTY keyboard. Other languages might use other keyboard layouts (e.g. German QWERTZ). That's a SkyUI problem.",
   "ru": "ВНИМАНИЕ: MCM показывает только соответствующую клавишу QWERTY-клавиатуры. Другие языки могут использовать другие раскладки (например, немецкая). Это проблема SkyUI.",
   "bel": "УВАГА: MCM паказвае толькі адпаведную клавішу QWERTY-клавіятуры. Іншыя мовы могуць выкарыстоўваць іншыя раскладкі (напрыклад, нямецкую). Гэта праблема SkyUI."
  },
  "$ConfigMenuReadAloudBooksInfo": {
-  "en": "ConfigMenuReadAloudBooksInfo",
+  "en": "If this option is selected, no voiced book will be read in the background. Note that not every book is voiced.",
   "ru": "Если эта опция включена, все озвученные книги не будут читаться в фоновом режиме. Обратите внимание, что не все книги в игре озвучены.",
   "bel": "Калі гэтая опцыя ўключана, усе агучаныя кнігі не будуць чытацца ў фонавым рэжыме. Майце на ўвазе, што не ўсе кнігі ў гульні агучаны."
  },
  "$ConfigMenuTutorialsInfo": {
-  "en": "ConfigMenuTutorialsInfo",
+  "en": "These options allow to deactivate certain tutorials in Enderal. It is recommend to only deactivate them if you are familiar with the new game-play elements in Enderal. Skyrim tutorials can only be disabled in the Enderal.ini: [Interface] bShowTutorials=0",
   "ru": "Эти параметры позволяют деактивировать некоторые моменты в обучении в Enderal. Это рекомендуется для тех, кто уже знаком с новыми элементами игрового процесса в Enderal. Обучение Skyrim можно отключить только в Enderal.ini: [Interface] bShowTutorials=0",
   "bel": "Гэтыя параметры дазваляюць адключыць некаторыя моманты навучання ў Эндэрале. Гэта рэкамендуецца тым, хто ўжо знаёмы з новымі элементамі геймплэя ў Эндэрале. Навучанне Skyrim можна адключыць толькі ў Enderal.ini: [Interface] bShowTutorials=0"
  },
  "$ConfigMenuVideoSkipInfo": {
-  "en": "ConfigMenuVideoSkipInfo",
+  "en": "If this option is selected, none of the three in-game videos will be played. This option should only be selected when all video sequences are already known to the player.基�ȃĀ\u0000\u0000蘵Ḁた䔰䑟扥杵敓却慴敧婔楲杧牥瀮捳܀楎潣慬s匍䥐䱅䅍䍓䥈䕎⬀ᨀた䔰䑟扥杵敓却慴敧婔楲杧牥\u0000ࠀ敇却慴整ऀ潇潴瑓瑡e伎呮楲杧牥湅整r挋湯楤楴湯污؀楨摤湥ༀ扏敪瑣敒敦敲据e䐄湯e䈄潯l㨋区慴敧癟牡̀湉t㨑䜺潬慢呬卯瑥癟牡฀汧扯污慶楲扡敬଀㨺免ㄱ彡慶r焅敵瑳ᄀ㨺汇扯污慖畬彥慶r䜋潬慢呬卯瑥଀汇扯污慖畬e䴅ㅑ愱Ԁ瑓条e丄湯e䘹湵瑣潩⁮桴瑡猠楷捴敨⁳桴獩漠橢捥⁴潴琠敨猠数楣楦摥猠慴整ࠀ敮卷慴整؀瑓楲杮ऀ㨺潎敮慖r漊䕮摮瑓瑡e猄汥f㨇区慴整ఀ湯敂楧卮慴整଀歡捁楴湯敒f㨇琺浥ばԀ捡潴r㨇琺浥ㅰ܀㨺整灭2㨇琺浥㍰܀㨺整灭4䘅潬瑡Ѐ慧敭ऀ敇側慬敹r匈瑥瑓条e匈瑥慖畬e䘧湵瑣潩⁮桴瑡爠瑥牵獮琠敨挠牵敲瑮猠慴整\u0001\u0000嘀㗨\u0003\u0000\u0001\u0002\u0000\u0000Ā̀\u0000\u0000\u0000\u0001\u0004ഀ؀؀؀؀؀؀؀؀܀ࠀࠀऀऀȀԀ\u0001\u0006Ā\u0000\u0000省܀Ā\u0000\u0000ĀԀࠀऀ\u0000\u0000\u0000",
   "ru": "Если эта настройка включена, все три внутриигровых видео не будут проигрываться. Эту опцию стоит выбирать, когда все видеоролики игрок уже посмотрел.",
   "bel": "Калі гэтая налада ўключана, усе тры ўнутрагульнявыя відэа не будуць прайгравацца. Гэтую опцыю варта выбіраць, калі ўсе відэаролікі гулец ужо паглядзеў."
  },
@@ -1130,17 +1130,17 @@
   "bel": "Меню кантэйнера"
  },
  "$Controls": {
-  "en": "Controls",
+  "en": "Controls\t",
   "ru": "УПРАВЛЕНИЕ",
   "bel": "КІРАВАННЕ"
  },
  "$CoppaRequiredError": {
-  "en": "CoppaRequiredError",
+  "en": "You must confirm Terms of Service to create an account.",
   "ru": "Чтобы создать учетную запись, вы должны согласиться с Правилами предоставления услуг.",
   "bel": "Каб стварыць уліковы запіс, вы павінны прыняць Умовы выкарыстання."
  },
  "$CoppaText": {
-  "en": "CoppaText",
+  "en": "I agree to the Terms of Service, Privacy Policy and Code of Conduct, and am 13 years or older.",
   "ru": "Я соглашаюсь с Правилами предоставления услуг и поведения в сети, Политикой конфиденциальности и подтверждаю, что мне больше 13 лет.",
   "bel": "Я пагаджаюся з Умовамі выкарыстання, Палітыкай прыватнасці і Правіламі паводзін, і пацвярджаю, што мне больш за 13 год."
  },
@@ -1155,117 +1155,117 @@
   "bel": "Меню крафту"
  },
  "$Crafting_$DLC2ArmorBonemold": {
-  "en": "Crafting_$DLC2ArmorBonemold",
+  "en": "BONEMOLD",
   "ru": "КОСТЯНОЕ",
   "bel": "КОСТКАВАЕ"
  },
  "$Crafting_$DLC2ArmorChitin": {
-  "en": "Crafting_$DLC2ArmorChitin",
+  "en": "CHITIN",
   "ru": "ХИТИНОВОЕ",
   "bel": "ХІЦІНАВАЕ"
  },
  "$Crafting_$DLC2ArmorNordic": {
-  "en": "Crafting_$DLC2ArmorNordic",
+  "en": "NORDIC",
   "ru": "НОРДСКОЕ",
   "bel": "НОРДСКАЕ"
  },
  "$Crafting_$DLC2ArmorStalhrim": {
-  "en": "Crafting_$DLC2ArmorStalhrim",
+  "en": "STALHRIM",
   "ru": "СТАЛГРИМОВОЕ",
   "bel": "СТАЛГРЫМАВАЕ"
  },
  "$CreateAcct_BNET_BEAM_EMAIL_ADDRESS_ALREADY_TAKEN": {
-  "en": "CreateAcct_BNET_BEAM_EMAIL_ADDRESS_ALREADY_TAKEN",
+  "en": "This email is already taken.  Please enter your username and password.",
   "ru": "Этот адрес электронной почты уже зарегистрирован. Пожалуйста, введите свои имя пользователя и пароль.",
   "bel": "Гэты адрас электроннай пошты ўжо зарэгістраваны. Калі ласка, увядзіце свае імя карыстальніка і пароль."
  },
  "$CreateAcct_BNET_BEAM_INVALID_EMAIL_ADDRESS": {
-  "en": "CreateAcct_BNET_BEAM_INVALID_EMAIL_ADDRESS",
+  "en": "The email address entered was invalid.",
   "ru": "Некорректный адрес электронной почты.",
   "bel": "Няправільны адрас электроннай пошты."
  },
  "$CreateAcct_BNET_BEAM_INVALID_USERNAME": {
-  "en": "CreateAcct_BNET_BEAM_INVALID_USERNAME",
+  "en": "The username entered was invalid.",
   "ru": "Некорректное имя пользователя.",
   "bel": "Няправільнае імя карыстальніка."
  },
  "$CreateAcct_BNET_BEAM_OBJECT_ALREADY_EXISTS": {
-  "en": "CreateAcct_BNET_BEAM_OBJECT_ALREADY_EXISTS",
+  "en": "You have already linked an account.  Please back out and re-enter this screen to log back in.",
   "ru": "Вы уже связали свой адрес с учетной записью.  Пожалуйста, вернитесь в предыдущее меню и войдите на этот экран еще раз, чтобы войти в систему.",
   "bel": "Вы ўжо звязалі свой адрас з уліковым запісам. Калі ласка, вярніцеся ў папярэдняе меню і ўвайдзіце на гэты экран яшчэ раз, каб увайсці ў сістэму."
  },
  "$CreateAcct_BNET_BEAM_TOO_MANY_REQUESTS": {
-  "en": "CreateAcct_BNET_BEAM_TOO_MANY_REQUESTS",
+  "en": "Too many requests.",
   "ru": "Слишком много запросов.",
   "bel": "Занадта шмат запытаў."
  },
  "$CreateAcct_BNET_BEAM_USERNAME_ALREADY_TAKEN": {
-  "en": "CreateAcct_BNET_BEAM_USERNAME_ALREADY_TAKEN",
+  "en": "That username has already been used to create an account.",
   "ru": "Уже существует учетная запись с таким именем пользователя.",
   "bel": "Ужо існуе ўліковы запіс з такім імем карыстальніка."
  },
  "$CreateAcct_BNET_CANNOT_CONNECT": {
-  "en": "CreateAcct_BNET_CANNOT_CONNECT",
+  "en": "Couldn't connect to the Bethesda.net servers.",
   "ru": "Не удалось подключиться к серверам Bethesda.net.",
   "bel": "Не ўдалося падключыцца да сервераў Bethesda.net."
  },
  "$CreateAcct_BNET_DNS_ERROR": {
-  "en": "CreateAcct_BNET_DNS_ERROR",
+  "en": "DNS error occurred.",
   "ru": "Произошла ошибка DNS.",
   "bel": "Адбылася памылка DNS."
  },
  "$CreateAcct_BNET_NOT_FOUND": {
-  "en": "CreateAcct_BNET_NOT_FOUND",
+  "en": "Couldn't connect to the Bethesda.net servers.",
   "ru": "Ошибка подключения к серверам Bethesda.Net.",
   "bel": "Не ўдалося падключыцца да сервера Bethesda.net."
  },
  "$CreateAcct_BNET_PS4_HTTP_INVALID_VALUE": {
-  "en": "CreateAcct_BNET_PS4_HTTP_INVALID_VALUE",
+  "en": "Failed to create account.",
   "ru": "Ошибка создания учетной записи.",
   "bel": "Не ўдалося стварыць уліковы запіс."
  },
  "$CreateAcct_BNET_TIMEOUT": {
-  "en": "CreateAcct_BNET_TIMEOUT",
+  "en": "The connection has timed out.",
   "ru": "Время ожидания подключения истекло.",
   "bel": "Час чакання на падключэнне перавышаны."
  },
  "$CreateAcct_BNET_UGC_INVALID_TOKEN": {
-  "en": "CreateAcct_BNET_UGC_INVALID_TOKEN",
+  "en": "Session terminated.",
   "ru": "Сессия завершена досрочно.",
   "bel": "Сеанс спынены."
  },
  "$CreateAcct_BNET_UNKNOWN_ERROR": {
-  "en": "CreateAcct_BNET_UNKNOWN_ERROR",
+  "en": "The operation could not be completed.",
   "ru": "Не удалось завершить операцию.",
   "bel": "Гэтую аперацыю завяршыць не ўдалося."
  },
  "$CreateAcct_BNET_USL_INTERNAL_OR_COMMUNICATION_ERROR": {
-  "en": "CreateAcct_BNET_USL_INTERNAL_OR_COMMUNICATION_ERROR",
+  "en": "Server error.  Please try again.",
   "ru": "Ошибка сервера.  Пожалуйста, попробуйте еще раз.",
   "bel": "Памылка сервера. Паўтарыце спробу."
  },
  "$CreateAcct_BNET_XB1_DOWNLOAD_FAILURE": {
-  "en": "CreateAcct_BNET_XB1_DOWNLOAD_FAILURE",
+  "en": "Failed get info from server.",
   "ru": "Не удалось получить данные с сервера.",
   "bel": "Не ўдалося атрымаць даныя з сервера."
  },
  "$CreateAcct_BNET_XB1_USER_ERROR": {
-  "en": "CreateAcct_BNET_XB1_USER_ERROR",
+  "en": "Couldn't connect to the Bethesda.net servers.",
   "ru": "Не удалось подключиться к серверам Bethesda.net.",
   "bel": "Не ўдалося падключыцца да сервера Bethesda.net."
  },
  "$CreateAcct_Needs1stPartyUpdate": {
-  "en": "CreateAcct_Needs1stPartyUpdate",
+  "en": "An update is required in order to continue.",
   "ru": "Для продолжения работы нужно обновление.",
   "bel": "Каб працягваць, неабходна прымяніць абнаўленне."
  },
  "$CreateAcct_PS4AuthFailed": {
-  "en": "CreateAcct_PS4AuthFailed",
+  "en": "PS4 Authentication Failed.",
   "ru": "Ошибка аутентификации PS4.",
   "bel": "Збой аўтэнтыфікацыі PS4."
  },
  "$Create_Talisman": {
-  "en": "Create_Talisman",
+  "en": "Create Talisman",
   "ru": "Создать талисман",
   "bel": "Стварыць талісман"
  },
@@ -1325,12 +1325,12 @@
   "bel": "Бягучае месцазн."
  },
  "$Currently_Equipped": {
-  "en": "Currently_Equipped",
+  "en": "Currently Equipped",
   "ru": "Сейчас снаряжено",
   "bel": "Зараз снараджана"
  },
  "$DAM": {
-  "en": "DAM",
+  "en": "Dam",
   "ru": "УРОН",
   "bel": "ШКОДА"
  },
@@ -1340,12 +1340,12 @@
   "bel": "УРОН"
  },
  "$DAWNGUARD_ESMName": {
-  "en": "DAWNGUARD_ESMName",
+  "en": "Dawnguard",
   "ru": "Dawnguard",
   "bel": "Світальная Варта"
  },
  "$DDOF Intensity": {
-  "en": "DDOF Intensity",
+  "en": "Depth of Field",
   "ru": "Глубина изображения",
   "bel": "Глыбіня поля"
  },
@@ -1355,7 +1355,7 @@
   "bel": "ПАДРАБЯЗНАСЦІ"
  },
  "$DETECTED": {
-  "en": "DETECTED",
+  "en": "Detected",
   "ru": "ВАС ЗАМЕТИЛИ",
   "bel": "ТРЫВОГА"
  },
@@ -1365,12 +1365,12 @@
   "bel": "СЦЯГНУЦЬ"
  },
  "$DOWNLOADABLE CONTENT": {
-  "en": "DOWNLOADABLE CONTENT",
+  "en": "ADD-ONS",
   "ru": "ДОПОЛНЕНИЯ",
   "bel": "ДАДАТКІ"
  },
  "$DOWNLOADABLE CONTENT_PS3": {
-  "en": "DOWNLOADABLE CONTENT_PS3",
+  "en": "DOWNLOADABLE CONTENT",
   "ru": "ЗАГРУЖАЕМЫЙ КОНТЕНТ",
   "bel": "DLC"
  },
@@ -1380,32 +1380,32 @@
   "bel": "СЦЯГВАННЕ"
  },
  "$DRAGONBORN_ESMName": {
-  "en": "DRAGONBORN_ESMName",
+  "en": "Dragonborn",
   "ru": "Dragonborn",
   "bel": "Цмоканароджаны"
  },
  "$DUR": {
-  "en": "DUR",
+  "en": "Dur",
   "ru": "ПРОД",
   "bel": "ПРАЦ."
  },
  "$DURATION": {
-  "en": "DURATION",
+  "en": "Duration",
   "ru": "ПРОДОЛЖИТЕЛЬНОСТЬ",
   "bel": "ПРАЦЯГЛАСЦЬ"
  },
  "$Daedra Killed": {
-  "en": "Daedra Killed",
+  "en": "Legendary Creatures Killed",
   "ru": "Убито легендарных существ",
   "bel": "Забіта дэйдра"
  },
  "$Daedric": {
-  "en": "Daedric",
+  "en": "Thorium",
   "ru": "Даэдр.",
   "bel": "Даэдр."
  },
  "$Daedric Quests Completed": {
-  "en": "Daedric Quests Completed",
+  "en": "Sidequests Completed in Riverville",
   "ru": "Выполнено заданий в Речном",
   "bel": "Выканана заданняў дэйдра"
  },
@@ -1480,12 +1480,12 @@
   "bel": "Выдаліць гэтае захаванне?"
  },
  "$DeleteAllMods": {
-  "en": "DeleteAllMods",
+  "en": "Delete All Mods",
   "ru": "Удалить все моды",
   "bel": "Выдаліць усе Стварэнні"
  },
  "$DescriptionLabel": {
-  "en": "DescriptionLabel",
+  "en": "Description:",
   "ru": "Описание:",
   "bel": "Апісанне:"
  },
@@ -1495,7 +1495,7 @@
   "bel": "Працоўны стол"
  },
  "$Despectralize": {
-  "en": "Despectralize",
+  "en": "Remove Item",
   "ru": "Снять предмет (деспектрализовать)",
   "bel": "Зняць прадмет (дэспектралізаваць)"
  },
@@ -1510,37 +1510,37 @@
   "bel": "Падрабязнасці"
  },
  "$DetailsPageError_ExtractFail": {
-  "en": "DetailsPageError_ExtractFail",
+  "en": "This mod has failed to install completely.",
   "ru": "Не удалось завершить установку этой модификации.",
   "bel": "Не ўдалося цалкам усталяваць гэтае Стварэнне."
  },
  "$DetailsPageError_ExtractInvalidMod": {
-  "en": "DetailsPageError_ExtractInvalidMod",
+  "en": "This mod is invalid and cannot be installed.",
   "ru": "Это некорректная модификация. Ее нельзя установить.",
   "bel": "Гэтае Стварэнне нядзейнае і не можа быць усталяванае."
  },
  "$DetailsPageError_ExtractTooLarge": {
-  "en": "DetailsPageError_ExtractTooLarge",
+  "en": "Not enough free memory to install this mod.",
   "ru": "Не хватает места, чтобы установить модификацию.",
   "bel": "Бракуе памяці на ўсталёўку Стварэння."
  },
  "$DetailsPageError_Generic": {
-  "en": "DetailsPageError_Generic",
+  "en": "The operation could not be completed.",
   "ru": "Не удалось завершить операцию.",
   "bel": "Немагчыма выканаць аперацыю."
  },
  "$DetailsPageError_ModDeleted": {
-  "en": "DetailsPageError_ModDeleted",
+  "en": "This mod is no longer available.",
   "ru": "Эта модификация больше не доступна.",
   "bel": "Гэтае Стварэнне болей не даступнае."
  },
  "$DetailsPageError_ModDownloadFail": {
-  "en": "DetailsPageError_ModDownloadFail",
+  "en": "This mod has failed to download.",
   "ru": "Не удалось загрузить эту модификацию.",
   "bel": "Не ўдалося сцягнуць Стварэнне."
  },
  "$DetailsPageError_ModTooLarge": {
-  "en": "DetailsPageError_ModTooLarge",
+  "en": "Not enough free memory to download this mod.",
   "ru": "Не хватает места, чтобы загрузить модификацию.",
   "bel": "Бракуе памяці на сцягванне гэтага Стварэння."
  },
@@ -1565,12 +1565,12 @@
   "bel": "Забараніць пазіцыянаванне"
  },
  "$DisableAllMods": {
-  "en": "DisableAllMods",
+  "en": "Disable All Mods",
   "ru": "Деактивировать все моды",
   "bel": "Выключыць усе Стварэнні"
  },
  "$DisableMod": {
-  "en": "DisableMod",
+  "en": "Disable",
   "ru": "Деактивировать",
   "bel": "Выключыць"
  },
@@ -1580,7 +1580,7 @@
   "bel": "Выключана"
  },
  "$Disease Resist": {
-  "en": "Disease Resist",
+  "en": "Disease Resistance",
   "ru": "Сопротивление болезням",
   "bel": "Стайкасць да хвароб"
  },
@@ -1605,17 +1605,17 @@
   "bel": "Сцягнуць"
  },
  "$DownloadSize:": {
-  "en": "DownloadSize:",
+  "en": "Download Size:",
   "ru": "Размер:",
   "bel": "Памер загрузкі:"
  },
  "$DownloadStatus_ModSlotExceeded": {
-  "en": "DownloadStatus_ModSlotExceeded",
+  "en": "Limit Reached",
   "ru": "Достигнут предел",
   "bel": "Ліміт дасягнуты"
  },
  "$DownloadStatus_QueueExceeded": {
-  "en": "DownloadStatus_QueueExceeded",
+  "en": "Queue full",
   "ru": "Очередь переполнена",
   "bel": "Чарга запоўненая"
  },
@@ -1635,7 +1635,7 @@
   "bel": "Загрузкі:"
  },
  "$Dragon Souls Collected": {
-  "en": "Dragon Souls Collected",
+  "en": "Not in use",
   "ru": "Не используется",
   "bel": "Увабрана душ цмокаў"
  },
@@ -1650,7 +1650,7 @@
   "bel": "Выканана заданняў Цмоканароджанага"
  },
  "$Dragonplate": {
-  "en": "Dragonplate",
+  "en": "Bone",
   "ru": "Драконье",
   "bel": "Драконава"
  },
@@ -1665,7 +1665,7 @@
   "bel": "Драконава"
  },
  "$Draugr": {
-  "en": "Draugr",
+  "en": "Silver",
   "ru": "Серебряное",
   "bel": "Сярэбранае"
  },
@@ -1690,22 +1690,22 @@
   "bel": "Падзямелляў зачышчана"
  },
  "$Dwarven": {
-  "en": "Dwarven",
+  "en": "Starling",
   "ru": "Двемерское",
   "bel": "Двемерскае"
  },
  "$EFFECT": {
-  "en": "EFFECT",
+  "en": "Effect",
   "ru": "ВЛИЯНИЕ",
   "bel": "ЭФЕКТ"
  },
  "$ENCHANTED": {
-  "en": "ENCHANTED",
+  "en": "Enchanted",
   "ru": "ЗАЧАРОВАНО",
   "bel": "ЗАЧАРАВАНА"
  },
  "$EQUIPPED": {
-  "en": "EQUIPPED",
+  "en": "Equipped",
   "ru": "НАДЕТО",
   "bel": "АДЗЕТА"
  },
@@ -1715,12 +1715,12 @@
   "bel": "Вушы"
  },
  "$Eastmarch Bounty": {
-  "en": "Eastmarch Bounty",
+  "en": "Not in use",
   "ru": "Не используется",
   "bel": "Не выкарыстоўваецца"
  },
  "$Easy": {
-  "en": "Easy",
+  "en": "Apprentice",
   "ru": "Ученик",
   "bel": "Вучань"
  },
@@ -1730,7 +1730,7 @@
   "bel": "З'есці"
  },
  "$Ebony": {
-  "en": "Ebony",
+  "en": "Shadow Steel",
   "ru": "Эбонитовое",
   "bel": "Эбенавае"
  },
@@ -1740,17 +1740,17 @@
   "bel": "Эфекты"
  },
  "$Electric Resist": {
-  "en": "Electric Resist",
+  "en": "Shock Resistance",
   "ru": "Сопротивление электричеству",
   "bel": "Стайкасць да электрычнасці"
  },
  "$Elven": {
-  "en": "Elven",
+  "en": "Aeterna",
   "ru": "Эльфийское",
   "bel": "Эльфійскае"
  },
  "$Elven Gilded": {
-  "en": "Elven Gilded",
+  "en": "Gilded Aeterna",
   "ru": "Эльфийское",
   "bel": "Эльфійскае"
  },
@@ -1760,7 +1760,7 @@
   "bel": "Адрас E-mail"
  },
  "$EnableMod": {
-  "en": "EnableMod",
+  "en": "Enable",
   "ru": "Активировать",
   "bel": "Уключыць"
  },
@@ -1780,12 +1780,12 @@
   "bel": "Увядзіце тэкст"
  },
  "$Equip": {
-  "en": "Equip",
+  "en": "Equipment",
   "ru": "Снаряжение",
   "bel": "Экіпіяваць"
  },
  "$Equip Mode": {
-  "en": "Equip Mode",
+  "en": "Equip Mod",
   "ru": "Режим экипировки",
   "bel": "Рэжым экіпіроўкі"
  },
@@ -1795,27 +1795,27 @@
   "bel": "Выйсці"
  },
  "$FACTION": {
-  "en": "FACTION",
+  "en": "Faction",
   "ru": "ФРАКЦИЯ",
   "bel": "ФРАКЦЫІ"
  },
  "$FAVORITE": {
-  "en": "FAVORITE",
+  "en": "Favorite",
   "ru": "ИЗБРАННОЕ",
   "bel": "АБРАНАЕ"
  },
  "$FILTER": {
-  "en": "FILTER",
+  "en": "Filter",
   "ru": "ФИЛЬТР",
   "bel": "ФІЛЬТР"
  },
  "$FIRST WORD": {
-  "en": "FIRST WORD",
+  "en": "First Tier",
   "ru": "ПЕРВЫЙ УР.",
   "bel": "ПЕРШЫ УЗР."
  },
  "$Falkreath Bounty": {
-  "en": "Falkreath Bounty",
+  "en": "Not in use",
   "ru": "Не используется",
   "bel": "Узнагарода за галаву ў Фолкрыце"
  },
@@ -1835,67 +1835,67 @@
   "bel": "Фалмерскае"
  },
  "$Fasttravel00": {
-  "en": "Fasttravel00",
+  "en": "Ark, Main Gate (Heartland)",
   "ru": "Арк, Главные ворота (Сердцеземье)",
   "bel": "Арк, Галоўныя вароты (Сэрцазем'е)"
  },
  "$Fasttravel01": {
-  "en": "Fasttravel01",
+  "en": "Ark, Foreign Quarter",
   "ru": "Арк, Квартал чужеземцев",
   "bel": "Арк, Квартал чужаземцаў"
  },
  "$Fasttravel02": {
-  "en": "Fasttravel02",
+  "en": "Ark, Marketplace",
   "ru": "Арк, Рынок",
   "bel": "Арк, Рынак"
  },
  "$Fasttravel03": {
-  "en": "Fasttravel03",
+  "en": "Ark, Southern Quarter (Myrad Tower)",
   "ru": "Арк, Южный квартал (Башня мирада)",
   "bel": "Арк, Паўднёвы квартал (Вежа мірада)"
  },
  "$Fasttravel04": {
-  "en": "Fasttravel04",
+  "en": "Ark, Nobles Quarter",
   "ru": "Арк, Квартал знати",
   "bel": "Арк, Квартал знаці"
  },
  "$Fasttravel05": {
-  "en": "Fasttravel05",
+  "en": "Ark, Harbor",
   "ru": "Арк, Гавань",
   "bel": "Арк, Гавань"
  },
  "$Fasttravel06": {
-  "en": "Fasttravel06",
+  "en": "Ark, Sun Temple",
   "ru": "Арк, Храм Солнца",
   "bel": "Арк, Храм Сонца"
  },
  "$Fasttravel07": {
-  "en": "Fasttravel07",
+  "en": "Ark, Barrack Quarter",
   "ru": "Арк, Квартал бараков",
   "bel": "Арк, Квартал баракаў"
  },
  "$Fasttravel08": {
-  "en": "Fasttravel08",
+  "en": "Undercity, Main Cavern",
   "ru": "Подгород, Главная пещера",
   "bel": "Падгорад, Галоўная пячора"
  },
  "$Fasttravel09": {
-  "en": "Fasttravel09",
+  "en": "Undercity, Barracks",
   "ru": "Подгород, Бараки",
   "bel": "Падгорад, Баракі"
  },
  "$Fasttravel10": {
-  "en": "Fasttravel10",
+  "en": "Undercity, Marketplace",
   "ru": "Подгород, Рынок",
   "bel": "Падгорад, Рынак"
  },
  "$Fasttravel11": {
-  "en": "Fasttravel11",
+  "en": "Undercity, Tar Pit",
   "ru": "Подгород, Смоляная яма",
   "bel": "Падгорад, Смальная яма"
  },
  "$Fasttravel12": {
-  "en": "Fasttravel12",
+  "en": "Undercity, Arena",
   "ru": "Подгород, Арена",
   "bel": "Падгорад, Арэна"
  },
@@ -1915,7 +1915,7 @@
   "bel": "Улюбёная школа"
  },
  "$Favorite Shout": {
-  "en": "Favorite Shout",
+  "en": "Favorite Talent",
   "ru": "Любимая способность",
   "bel": "Улюбёны Крык"
  },
@@ -1955,112 +1955,112 @@
   "bel": "Ногі"
  },
  "$Female Affinity Arcane Archer": {
-  "en": "Female Affinity Arcane Archer",
+  "en": "Arcane Archer",
   "ru": "Стрелок-чародейка",
   "bel": "Стральніца-чарадзейка"
  },
  "$Female Affinity Assassin": {
-  "en": "Female Affinity Assassin",
+  "en": "Assassin",
   "ru": "Убийца",
   "bel": "Забойца"
  },
  "$Female Affinity Battlemage": {
-  "en": "Female Affinity Battlemage",
+  "en": "Battlemage",
   "ru": "Боевая волшебница",
   "bel": "Баявая чараўніца"
  },
  "$Female Affinity Black Mage": {
-  "en": "Female Affinity Black Mage",
+  "en": "Black Mage",
   "ru": "Черная волшебница",
   "bel": "Чорная чараўніца"
  },
  "$Female Affinity Blade Breaker": {
-  "en": "Female Affinity Blade Breaker",
+  "en": "Blade Breaker",
   "ru": "Разрушительница клинков",
   "bel": "Разбуральніца клінкоў"
  },
  "$Female Affinity Blade Master": {
-  "en": "Female Affinity Blade Master",
+  "en": "Blade Master",
   "ru": "Мастер клинков",
   "bel": "Майстар клінкоў"
  },
  "$Female Affinity Cleric": {
-  "en": "Female Affinity Cleric",
+  "en": "Cleric",
   "ru": "Священнослужительница",
   "bel": "Святарка"
  },
  "$Female Affinity Dark Keeper": {
-  "en": "Female Affinity Dark Keeper",
+  "en": "Dark Keeper",
   "ru": "Темная хранительница",
   "bel": "Цёмная храніцельніца"
  },
  "$Female Affinity Shadowdancer": {
-  "en": "Female Affinity Shadowdancer",
+  "en": "Shadowdancer",
   "ru": "Теневой танцовщица",
   "bel": "Ценявы танцоўшчыца"
  },
  "$Female Affinity Wayfarer": {
-  "en": "Female Affinity Wayfarer",
+  "en": "Wayfarer",
   "ru": "Странница",
   "bel": "Падарожніца"
  },
  "$Female Class: Adventurer": {
-  "en": "Female Class: Adventurer",
+  "en": "Adventurer",
   "ru": "Искательница приключений",
   "bel": "Шукачка прыгод"
  },
  "$Female Class: Bladedancer": {
-  "en": "Female Class: Bladedancer",
+  "en": "Bladedancer",
   "ru": "Танцовщика с клинками",
   "bel": "Танцорка з клінкамі"
  },
  "$Female Class: Elementarist": {
-  "en": "Female Class: Elementarist",
+  "en": "Elementalist",
   "ru": "Элементалистка",
   "bel": "Элементалістка"
  },
  "$Female Class: Infiltrator": {
-  "en": "Female Class: Infiltrator",
+  "en": "Infiltrator",
   "ru": "Лазутчица",
   "bel": "Лазутчыца"
  },
  "$Female Class: Keeper": {
-  "en": "Female Class: Keeper",
+  "en": "Keeper",
   "ru": "Хранительница",
   "bel": "Храніцельніца"
  },
  "$Female Class: Mentalist": {
-  "en": "Female Class: Mentalist",
+  "en": "Mentalist",
   "ru": "Менталистка",
   "bel": "Менталістка"
  },
  "$Female Class: Phasmalist": {
-  "en": "Female Class: Phasmalist",
+  "en": "Phasmalist",
   "ru": "Фазмалистка",
   "bel": "Фазмалістка"
  },
  "$Female Class: Sinistrop": {
-  "en": "Female Class: Sinistrop",
+  "en": "Sinistrop",
   "ru": "Колдунья",
   "bel": "Чараўніца"
  },
  "$Female Class: Theriantrophist": {
-  "en": "Female Class: Theriantrophist",
+  "en": "Lycanthrope",
   "ru": "Оборотень",
   "bel": "Абаротнік"
  },
  "$Female Class: Trickster": {
-  "en": "Female Class: Trickster",
+  "en": "Trickster",
   "ru": "Ловкачка",
   "bel": "Лоўкачка"
  },
  "$Female Class: Vagabond": {
-  "en": "Female Class: Vagabond",
+  "en": "Vagabond",
   "ru": "Бродяжка",
   "bel": "Бадзяжка"
  },
  "$Female Class: Vandal": {
-  "en": "Female Class: Vandal",
+  "en": "Vandal",
   "ru": "Вандалка",
   "bel": "Вандалка"
  },
@@ -2075,7 +2075,7 @@
   "bel": "Сплачана штрафаў"
  },
  "$Fire Resist": {
-  "en": "Fire Resist",
+  "en": "Fire Resistance",
   "ru": "Сопротивление огню",
   "bel": "Стайкасць да агню"
  },
@@ -2085,12 +2085,12 @@
   "bel": "Полена"
  },
  "$Follow": {
-  "en": "Follow",
+  "en": "Favorite",
   "ru": "Отметить как избранное",
   "bel": "У абранае"
  },
  "$Following": {
-  "en": "Following",
+  "en": "Favoriting...",
   "ru": "Перемещение в избранное...",
   "bel": "Даданне ў абранае..."
  },
@@ -2130,12 +2130,12 @@
   "bel": "Наперад"
  },
  "$FreeSpace:": {
-  "en": "FreeSpace:",
+  "en": "Free Space:",
   "ru": "Свободное место:",
   "bel": "Вольнае месца:"
  },
  "$Frost Resist": {
-  "en": "Frost Resist",
+  "en": "Frost Resistance",
   "ru": "Сопротивление морозу",
   "bel": "Стайкасць да марозу"
  },
@@ -2150,27 +2150,27 @@
   "bel": "ГАЛЕРЭЯ"
  },
  "$GEAR": {
-  "en": "GEAR",
+  "en": "Gear",
   "ru": "СНАРЯЖЕНИЕ",
   "bel": "СНАРАДЖЭННЕ"
  },
  "$GENERAL": {
-  "en": "GENERAL",
+  "en": "General",
   "ru": "ОБЩАЯ",
   "bel": "АГУЛЬНАЕ"
  },
  "$GENERAL STATS": {
-  "en": "GENERAL STATS",
+  "en": "General Stats",
   "ru": "СТАТИСТИКА",
   "bel": "СТАТЫСТЫКА"
  },
  "$GIVE GIFT": {
-  "en": "GIVE GIFT",
+  "en": "Give Gift",
   "ru": "ПОДАРИТЬ",
   "bel": "ДАЦЬ ПАДАРУНАК"
  },
  "$GROUP": {
-  "en": "GROUP",
+  "en": "Group",
   "ru": "ГРУППА",
   "bel": "ГРУПА"
  },
@@ -2210,17 +2210,17 @@
   "bel": "Шкляное"
  },
  "$Gold": {
-  "en": "Gold",
+  "en": "Pennies",
   "ru": "Золото",
   "bel": "Золата"
  },
  "$Gold Found": {
-  "en": "Gold Found",
+  "en": "Pennies Found",
   "ru": "Найдено золота",
   "bel": "Золата знойдзена"
  },
  "$Grabbing Email...": {
-  "en": "Grabbing Email...",
+  "en": "Grabbing first party email...",
   "ru": "Определение адреса электронной почты...",
   "bel": "Атрыманне электроннага ліста..."
  },
@@ -2260,12 +2260,12 @@
   "bel": "Група {}"
  },
  "$HEALTH": {
-  "en": "HEALTH",
+  "en": "Health",
   "ru": "Здоровье",
   "bel": "ЗДР."
  },
  "$HEARTHFIRES_ESMName": {
-  "en": "HEARTHFIRES_ESMName",
+  "en": "Hearthfire",
   "ru": "Hearthfire",
   "bel": "Агмень"
  },
@@ -2275,152 +2275,152 @@
   "bel": "ДАПАМОГА"
  },
  "$HIDDEN": {
-  "en": "HIDDEN",
+  "en": "Hidden",
   "ru": "ВАС НЕ ВИДЯТ",
   "bel": "НЯБАЧНЫ"
  },
  "$HK10": {
-  "en": "HK10",
+  "en": "AXT",
   "ru": "AXT",
   "bel": "AXE"
  },
  "$HK11": {
-  "en": "HK11",
+  "en": "DOL",
   "ru": "DOL",
   "bel": "DGR"
  },
  "$HK12": {
-  "en": "HK12",
+  "en": "BOG",
   "ru": "BOG",
   "bel": "BOW"
  },
  "$HK13": {
-  "en": "HK13",
+  "en": "SHI",
   "ru": "SHI",
   "bel": "SHD"
  },
  "$HK14": {
-  "en": "HK14",
+  "en": "ZWI",
   "ru": "ZWI",
   "bel": "GSW"
  },
  "$HK15": {
-  "en": "HK15",
+  "en": "KAX",
   "ru": "KAX",
   "bel": "BTX"
  },
  "$HK16": {
-  "en": "HK16",
+  "en": "KAM",
   "ru": "KAM",
   "bel": "WHM"
  },
  "$HK17": {
-  "en": "HK17",
+  "en": "ZWL",
   "ru": "ZWL",
   "bel": "DWL"
  },
  "$HK18": {
-  "en": "HK18",
+  "en": "ZWR",
   "ru": "ZWR",
   "bel": "DWR"
  },
  "$HK19": {
-  "en": "HK19",
+  "en": "SEF",
   "ru": "SEF",
   "bel": "SOUL"
  },
  "$HK20": {
-  "en": "HK20",
+  "en": "FLA",
   "ru": "FLA",
   "bel": "FLM"
  },
  "$HK21": {
-  "en": "HK21",
+  "en": "BLZ",
   "ru": "BLZ",
   "bel": "ZAP"
  },
  "$HK22": {
-  "en": "HK22",
+  "en": "FRZ",
   "ru": "FRZ",
   "bel": "CLD"
  },
  "$HK23": {
-  "en": "HK23",
+  "en": "SHZ",
   "ru": "SHZ",
   "bel": "WRD"
  },
  "$HK24": {
-  "en": "HK24",
+  "en": "RIT",
   "ru": "RIT",
   "bel": "RIT"
  },
  "$HK25": {
-  "en": "HK25",
+  "en": "BWA",
   "ru": "BWA",
   "bel": "BWPN"
  },
  "$HK26": {
-  "en": "HK26",
+  "en": "BWZ",
   "ru": "BWZ",
   "bel": "SUMM"
  },
  "$HK27": {
-  "en": "HK27",
+  "en": "RST",
   "ru": "RST",
   "bel": "ARMR"
  },
  "$HK28": {
-  "en": "HK28",
+  "en": "BST",
   "ru": "BST",
   "bel": "CLM"
  },
  "$HK29": {
-  "en": "HK29",
+  "en": "ZRN",
   "ru": "ZRN",
   "bel": "FRNZ"
  },
  "$HK30": {
-  "en": "HK30",
+  "en": "HLZ",
   "ru": "HLZ",
   "bel": "HEAL"
  },
  "$HK31": {
-  "en": "HK31",
+  "en": "HT",
   "ru": "HT",
   "bel": "HP"
  },
  "$HK32": {
-  "en": "HK32",
+  "en": "ZT",
   "ru": "ZT",
   "bel": "MP"
  },
  "$HK33": {
-  "en": "HK33",
+  "en": "AT",
   "ru": "AT",
   "bel": "SP"
  },
  "$HK34": {
-  "en": "HK34",
+  "en": "GIF",
   "ru": "GIF",
   "bel": "PSN"
  },
  "$HK35": {
-  "en": "HK35",
+  "en": "LHT",
   "ru": "LHT",
   "bel": "LGHT"
  },
  "$HK36": {
-  "en": "HK36",
+  "en": "ARM",
   "ru": "ARM",
   "bel": "XBOW"
  },
  "$HK8": {
-  "en": "HK8",
+  "en": "SHW",
   "ru": "SHW",
   "bel": "SWD"
  },
  "$HK9": {
-  "en": "HK9",
+  "en": "STK",
   "ru": "STK",
   "bel": "MCE"
  },
@@ -2430,7 +2430,7 @@
   "bel": "Непразрыстасць HUD"
  },
  "$Haafingar Bounty": {
-  "en": "Haafingar Bounty",
+  "en": "Not in use",
   "ru": "Не используется",
   "bel": "Узнагарода за галаву ў Хафінгары"
  },
@@ -2440,7 +2440,7 @@
   "bel": "Рукі"
  },
  "$Hard": {
-  "en": "Hard",
+  "en": "Expert",
   "ru": "Эксперт",
   "bel": "Эксперт"
  },
@@ -2455,7 +2455,7 @@
   "bel": "Здр."
  },
  "$Health Rate": {
-  "en": "Health Rate",
+  "en": "Health Regeneration",
   "ru": "Восстановление здоровья",
   "bel": "Аднаўленне здароўя"
  },
@@ -2475,32 +2475,32 @@
   "bel": "Скура"
  },
  "$HighestRated": {
-  "en": "HighestRated",
+  "en": "Highest Rated",
   "ru": "С самым высоким рейтингом.",
   "bel": "Найвышэйшы рэйтынг"
  },
  "$HighestRatedAllTime": {
-  "en": "HighestRatedAllTime",
+  "en": "Highest Rated - All Time",
   "ru": "С самым высоким рейтингом - за все время",
   "bel": "Найвышэйшы рэйтынг — ўвесь час"
  },
  "$HighestRatedThisMonth": {
-  "en": "HighestRatedThisMonth",
+  "en": "Highest Rated - This Month",
   "ru": "С самым высоким рейтингом - в этом месяце",
   "bel": "Найвышэйшы рэйтынг — гэты месяц"
  },
  "$HighestRatedThisWeek": {
-  "en": "HighestRatedThisWeek",
+  "en": "Highest Rated - This Week",
   "ru": "С самым высоким рейтингом - на этой неделе",
   "bel": "Найвышэйшы рэйтынг — гэты тыдзень"
  },
  "$HighestRatedToday": {
-  "en": "HighestRatedToday",
+  "en": "Highest Rated - Today",
   "ru": "С самым высоким рейтингом - сегодня",
   "bel": "Найвышэйшы рэйтынг — сёння"
  },
  "$Hjaalmarch Bounty": {
-  "en": "Hjaalmarch Bounty",
+  "en": "Not in use",
   "ru": "Не используется",
   "bel": "Узнагарода за галаву ў Х'ялмарку"
  },
@@ -2575,7 +2575,7 @@
   "bel": "УСТАЛЯВАНА"
  },
  "$ITEMS": {
-  "en": "ITEMS",
+  "en": "Items",
   "ru": "ПРЕДМЕТЫ",
   "bel": "РЭЧЫ"
  },
@@ -2595,7 +2595,7 @@
   "bel": "Ілюзія"
  },
  "$Imperial": {
-  "en": "Imperial",
+  "en": "Fine Leather",
   "ru": "Имперское",
   "bel": "Імперскае"
  },
@@ -2635,7 +2635,7 @@
   "bel": "Увядзіце тэкст"
  },
  "$Insulation Rating": {
-  "en": "Insulation Rating",
+  "en": "Warmth Rating",
   "ru": "Уровень тепла",
   "bel": "Рэйтынг цяплыні"
  },
@@ -2735,12 +2735,12 @@
   "bel": "Kinect Tuner"
  },
  "$LEVEL": {
-  "en": "LEVEL",
+  "en": "Level",
   "ru": "УРОВЕНЬ",
   "bel": "УЗР."
  },
  "$LEVEL UP": {
-  "en": "LEVEL UP",
+  "en": "Level up!",
   "ru": "НОВЫЙ УРОВЕНЬ",
   "bel": "УЗРОВЕНЬ ПАВЫШАНЫ"
  },
@@ -2765,7 +2765,7 @@
   "bel": "Найноўшае"
  },
  "$LearnBook": {
-  "en": "LearnBook",
+  "en": "Learning Book",
   "ru": "Книга обучения",
   "bel": "Кніга навучання"
  },
@@ -2780,12 +2780,12 @@
   "bel": "Лева"
  },
  "$Left Attack/Block": {
-  "en": "Left Attack/Block",
+  "en": "Left Hand",
   "ru": "Левая рука",
   "bel": "Левая рука"
  },
  "$Legendary": {
-  "en": "Legendary",
+  "en": "Iron Path",
   "ru": "Железный путь",
   "bel": "Легендарны"
  },
@@ -2840,27 +2840,27 @@
   "bel": "Загрузіць? Увесь прагрэс будзе страчаны."
  },
  "$Loading EULA...": {
-  "en": "Loading EULA...",
+  "en": "Loading Terms of Service",
   "ru": "Загрузка Правил предоставления услуг",
   "bel": "Загрузка ўмоваў выкарыстання"
  },
  "$Loading downloadable content...": {
-  "en": "Loading downloadable content...",
+  "en": "Loading Add-Ons",
   "ru": "Загрузка дополнений...",
   "bel": "Загрузка дадатковага змесціва..."
  },
  "$Loading downloadable content..._PS3": {
-  "en": "Loading downloadable content..._PS3",
+  "en": "Loading downloadable content...",
   "ru": "Загрузка контента...",
   "bel": "Загрузка DLC..."
  },
  "$Loading extra content.": {
-  "en": "Loading extra content.",
+  "en": "Loading Add-Ons",
   "ru": "Загрузка дополнений...",
   "bel": "Загрузка дадатковага змесціва."
  },
  "$Loading extra content._PS3": {
-  "en": "Loading extra content._PS3",
+  "en": "Loading extra content.",
   "ru": "Загрузка дополнительного контента",
   "bel": "Загрузка дадатковага змесціва."
  },
@@ -2870,12 +2870,12 @@
   "bel": "Загрузка Стварэнняў..."
  },
  "$LoadingModsIntro": {
-  "en": "LoadingModsIntro",
+  "en": "Play with Mods at your own risk. You may experience issues with mods. You can disable Mods via Load Order and go back to your original save at anytime using Select Character in the Load menu. Downloading and playing with Mods is subject to our Terms of Service. Note: Achievements are disabled.",
   "ru": "Вы запускаете модификации на свой страх и риск. При использовании модификаций возможны ошибки. Вы можете в любой момент деактивировать модификации с помощью меню \"Порядок загрузки\" и вернуться к изначальному сохранению с помощью меню \"Загрузить/Выбор персонажа\". На загрузку модификации игры распространяются наши Условия предоставления услуг. Внимание: достижения будут недоступны.",
   "bel": "Вы гуляеце з мадыфікацыямі на ўласную рызыку. Мадыфікацыі могуць выклікаць праблемы. Вы можаце выключаць мадыфікацыі праз меню Парадак Загрузкі і вярнуцца да арыгінальнага захавання праз выбар персанажа ў меню загрузкі. Сцягванне мадыфікацый і гульня з імі датычацца Умоў выкарыстання. Заўвага: дасягненні будуць адключаныя."
  },
  "$LoadingModsIntro_PS4": {
-  "en": "LoadingModsIntro_PS4",
+  "en": "Play with Mods at your own risk. You may experience issues with mods. You can disable Mods via Load Order and go back to your original save at anytime using Select Character in the Load menu. Downloading and playing with Mods is subject to our Terms of Service. Note: Trophies are disabled.",
   "ru": "Вы запускаете модификации на свой страх и риск. При использовании модификаций возможны ошибки. Вы можете в любой момент деактивировать модификации с помощью меню \"Порядок загрузки\" и вернуться к изначальному сохранению с помощью меню \"Загрузить/Выбор персонажа\". На загрузку модификации игры распространяются наши Условия предоставления услуг. Внимание: призы будут недоступны.",
   "bel": "Вы гуляеце з мадыфікацыямі на ўласную рызыку. Мадыфікацыі могуць выклікаць праблемы. Вы можаце выключаць мадыфікацыі праз меню Парадак Загрузкі і вярнуцца да арыгінальнага захавання праз выбар персанажа ў меню загрузкі. Спампоўванне мадыфікацый і гульня з імі датычацца Умоў выкарыстання. Заўвага: Трафеі будуць адключаныя."
  },
@@ -2925,212 +2925,212 @@
   "bel": "Выконваецца ўваход..."
  },
  "$LoginError_AgeRestrict": {
-  "en": "LoginError_AgeRestrict",
+  "en": "Parental controls have disabled online media sharing.",
   "ru": "Средства родительского контроля запрещают любую трансляцию.",
   "bel": "Абмен анлайн-медыя забаронены праз Бацькоўскі Кантроль."
  },
  "$LoginError_BNET_ACCOUNT_NOT_LINKED": {
-  "en": "LoginError_BNET_ACCOUNT_NOT_LINKED",
+  "en": "Account not linked.",
   "ru": "Учетная запись не связана.",
   "bel": "Уліковы запіс не прывязаны."
  },
  "$LoginError_BNET_BEAM_EMAIL_ADDRESS_ALREADY_TAKEN": {
-  "en": "LoginError_BNET_BEAM_EMAIL_ADDRESS_ALREADY_TAKEN",
+  "en": "This email is already taken.  Please enter your username and password.  If you made a quick account using this email, please check for a verification email.",
   "ru": "Этот адрес электронной почты уже зарегистрирован. Пожалуйста, введите свои имя пользователя и пароль. Если вы создали упрощенную учетную запись с помощью этого адреса, то проверьте почту и посмотрите письмо верификации.",
   "bel": "Гэты адрас электроннай пошты ўжо зарэгістраваны. Калі ласка, увядзіце свае імя карыстальніка і пароль. Калі вы стварылі спрошчаны ўліковы запіс з дапамогай гэтага адраса, праверце пошту і прачытайце ліст верыфікацыі."
  },
  "$LoginError_BNET_BEAM_OBJECT_ALREADY_EXISTS_PSN": {
-  "en": "LoginError_BNET_BEAM_OBJECT_ALREADY_EXISTS_PSN",
+  "en": "Your Sony Entertainment Network account does not match the Sony Entertainment Network account linked to this Bethesda.net username. Please use the matching Sony Entertainment Network account or contact Bethesda customer support.",
   "ru": "Ваша учетная запись Sony Entertainment Network не соответствует учетной записи Sony Entertainment Network, связанной с этим именем пользователя Bethesda.net. Используйте соответствующую учетную запись Sony Entertainment Network или обратитесь в службу поддержки Bethesda.",
   "bel": "Ваш уліковы запіс Sony Entertainment Network не супадае з уліковым запісам Sony Entertainment Network, звязаным з гэтым імем карыстальніка Bethesda.net. Выкарыстайце адпаведны ўліковы запіс Sony Entertainment Network або звярніцеся ў службу падтрымкі Bethesda."
  },
  "$LoginError_BNET_BEAM_OBJECT_ALREADY_EXISTS_STEAM": {
-  "en": "LoginError_BNET_BEAM_OBJECT_ALREADY_EXISTS_STEAM",
+  "en": "Your Steam account does not match the Steam account linked to this Bethesda.net username. Please use the matching Steam account or contact Bethesda customer support.",
   "ru": "Ваша учетная запись Steam не соответствует учетной записи Steam, связанной с этим именем пользователя Bethesda.net. Используйте соответствующую учетную запись Steam или обратитесь в службу поддержки Bethesda.",
   "bel": "Ваш уліковы запіс Steam не супадае з уліковым запісам, звязаным з гэтым імем карыстальніка Bethesda.net. Выкарыстайце адпаведны ўліковы запіс Steam або звярніцеся ў службу падтрымкі Bethesda."
  },
  "$LoginError_BNET_BEAM_OBJECT_ALREADY_EXISTS_XBL": {
-  "en": "LoginError_BNET_BEAM_OBJECT_ALREADY_EXISTS_XBL",
+  "en": "Your Xbox account does not match the Xbox account linked to this Bethesda.net username. Please use the matching Xbox account or contact Bethesda customer support.",
   "ru": "Ваша учетная запись Xbox не соответствует учетной записи Xbox, связанной с этим именем пользователя Bethesda.net. Используйте соответствующую учетную запись Xbox или обратитесь в службу поддержки Bethesda.",
   "bel": "Ваш уліковы запіс Xbox не супадае з уліковым запісам Xbox, звязаным з гэтым імем карыстальніка Bethesda.net. Выкарыстайце адпаведны ўліковы запіс Xbox або звярніцеся ў службу падтрымкі Bethesda."
  },
  "$LoginError_BNET_BEAM_OPERATIONAL_ERROR": {
-  "en": "LoginError_BNET_BEAM_OPERATIONAL_ERROR",
+  "en": "The operation could not be completed.",
   "ru": "Не удалось завершить операцию.",
   "bel": "Гэту аперацыю завяршыць не ўдалося."
  },
  "$LoginError_BNET_CANCELLED": {
-  "en": "LoginError_BNET_CANCELLED",
+  "en": "The operation could not be completed.",
   "ru": "Не удалось завершить операцию.",
   "bel": "Гэту аперацыю завяршыць не ўдалося."
  },
  "$LoginError_BNET_CANNOT_CONNECT": {
-  "en": "LoginError_BNET_CANNOT_CONNECT",
+  "en": "Couldn't connect to the Bethesda.net servers.",
   "ru": "Не удалось подключиться к серверам Bethesda.net.",
   "bel": "Не ўдалося падключыцца да сервераў Bethesda.net."
  },
  "$LoginError_BNET_CDP_AUTHENTICATION_FAILED_OR_MISSING": {
-  "en": "LoginError_BNET_CDP_AUTHENTICATION_FAILED_OR_MISSING",
+  "en": "Could not login to the Bethesda.net server.",
   "ru": "Не удалось выполнить вход на сервер Bethesda.net.",
   "bel": "Не ўдалося ўвайсці на серверы Bethesda.net."
  },
  "$LoginError_BNET_CLIENT_ERROR": {
-  "en": "LoginError_BNET_CLIENT_ERROR",
+  "en": "The operation could not be completed.",
   "ru": "Не удалось завершить операцию.",
   "bel": "Гэту аперацыю завяршыць не ўдалося."
  },
  "$LoginError_BNET_DNS_ERROR": {
-  "en": "LoginError_BNET_DNS_ERROR",
+  "en": "Could not connect to the Bethesda.net servers.",
   "ru": "Не удалось подключиться к серверам Bethesda.net.",
   "bel": "Не ўдалося падключыцца да сервераў Bethesda.net."
  },
  "$LoginError_BNET_INTERNAL": {
-  "en": "LoginError_BNET_INTERNAL",
+  "en": "Could not log into the Bethesda.net servers.",
   "ru": "Не удалось выполнить вход на сервер Bethesda.net.",
   "bel": "Не ўдалося выканаць уваход на сервер Bethesda.net."
  },
  "$LoginError_BNET_INVALID_CREDENTIALS": {
-  "en": "LoginError_BNET_INVALID_CREDENTIALS",
+  "en": "The username/password is invalid.  To retrieve your username or reset your password go to https://account.bethesda.net/login",
   "ru": "Неправильное имя пользователя или пароль. Чтобы восстановить имя пользователя или сбросить пароль, сходите по ссылке https://account.bethesda.net/ru/login",
   "bel": "Няправільнае імя карыстальніка або пароль. Каб аднавіць імя карыстальніка або скінуць пароль, перайдзіце па спасылцы https://account.bethesda.net/ru/login"
  },
  "$LoginError_BNET_NOT_FOUND": {
-  "en": "LoginError_BNET_NOT_FOUND",
+  "en": "Couldn't connect to the Bethesda.net servers.",
   "ru": "Не удалось подключиться к серверам Bethesda.net.",
   "bel": "Не ўдалося падключыцца да сервераў Bethesda.net."
  },
  "$LoginError_BNET_OUTSIDE_GRACE_PERIOD": {
-  "en": "LoginError_BNET_OUTSIDE_GRACE_PERIOD",
+  "en": "Please complete your Bethesda.net account registration and verify your email.",
   "ru": "Пожалуйста, завершите регистрацию на Bethesda.net и проверьте электронную почту.",
   "bel": "Завяршыце рэгістрацыю ўліковага запісу на Bethesda.net і пацвердзіце яе."
  },
  "$LoginError_BNET_PS4_HTTP_BEFORE_INIT": {
-  "en": "LoginError_BNET_PS4_HTTP_BEFORE_INIT",
+  "en": "The operation could not be completed.",
   "ru": "Невозможно завершить операцию.",
   "bel": "Гэту аперацыю завяршыць не ўдалося."
  },
  "$LoginError_BNET_PS4_HTTP_INVALID_VALUE": {
-  "en": "LoginError_BNET_PS4_HTTP_INVALID_VALUE",
+  "en": "The operation could not be completed.",
   "ru": "Не удалось завершить операцию.",
   "bel": "Гэту аперацыю завяршыць не ўдалося."
  },
  "$LoginError_BNET_SERVER_ERROR": {
-  "en": "LoginError_BNET_SERVER_ERROR",
+  "en": "Could not login to the Bethesda.net servers.",
   "ru": "Не удалось выполнить вход на сервер Bethesda.net.",
   "bel": "Не ўдалося ўвайсці на серверы Bethesda.net."
  },
  "$LoginError_BNET_TIMEOUT": {
-  "en": "LoginError_BNET_TIMEOUT",
+  "en": "The connection has timed out.",
   "ru": "Время ожидания подключения истекло.",
   "bel": "Час чакання на злучэнне перавышаны."
  },
  "$LoginError_BNET_UGC_CONTENT_DOES_NOT_EXIST": {
-  "en": "LoginError_BNET_UGC_CONTENT_DOES_NOT_EXIST",
+  "en": "Content does not exist.",
   "ru": "Контент не найден.",
   "bel": "Змесціва не існуе."
  },
  "$LoginError_BNET_UGC_INVALID_TOKEN": {
-  "en": "LoginError_BNET_UGC_INVALID_TOKEN",
+  "en": "Session terminated.",
   "ru": "Сессия завершена досрочно.",
   "bel": "Сесія перапыненая."
  },
  "$LoginError_BNET_UGC_USER_NOT_ALLOWED_TO_ACCESS_CONTENT": {
-  "en": "LoginError_BNET_UGC_USER_NOT_ALLOWED_TO_ACCESS_CONTENT",
+  "en": "Attempting to access blacklisted mod.",
   "ru": "Попытка получить доступ к модификации из черного списка.",
   "bel": "Спроба атрымаць доступ да Стварэння з чорнага спісу."
  },
  "$LoginError_BNET_UNACCEPTED_LEGAL_DOCUMENT": {
-  "en": "LoginError_BNET_UNACCEPTED_LEGAL_DOCUMENT",
+  "en": "EULA hasn't been accepted.  Log in to Bethesda.net on your browser.",
   "ru": "Лицензионное соглашение не было принято. Войдите на сайт Bethesda.net через браузер.",
   "bel": "Вы ня прынялі умовы EULA. Увайдзіце ў свой акаўнт Bethesda.net праз браўзэр."
  },
  "$LoginError_BNET_UNKNOWN_ERROR": {
-  "en": "LoginError_BNET_UNKNOWN_ERROR",
+  "en": "The operation could not be completed.",
   "ru": "Не удалось выполнить операцию.",
   "bel": "Гэту аперацыю завяршыць не ўдалося."
  },
  "$LoginError_BNET_USL_INTERNAL_OR_COMMUNICATION_ERROR": {
-  "en": "LoginError_BNET_USL_INTERNAL_OR_COMMUNICATION_ERROR",
+  "en": "The operation could not be completed.",
   "ru": "Не удалось выполнить операцию.",
   "bel": "Гэту аперацыю завяршыць не ўдалося."
  },
  "$LoginError_BNET_USL_MAINTENANCE": {
-  "en": "LoginError_BNET_USL_MAINTENANCE",
+  "en": "The operation could not be completed.",
   "ru": "Не удалось выполнить операцию.",
   "bel": "Гэту аперацыю завяршыць не ўдалося."
  },
  "$LoginError_BNET_USL_PARAMETER_INVALID_OR_MISSING": {
-  "en": "LoginError_BNET_USL_PARAMETER_INVALID_OR_MISSING",
+  "en": "The operation could not be completed.",
   "ru": "Не удалось выполнить операцию.",
   "bel": "Гэту аперацыю завяршыць не ўдалося."
  },
  "$LoginError_BNET_WINHTTP_INVALID_SERVER_RESPONSE": {
-  "en": "LoginError_BNET_WINHTTP_INVALID_SERVER_RESPONSE",
+  "en": "Could not connect to the Bethesda.net servers.",
   "ru": "Ошибка подключения к серверам Bethesda.Net.",
   "bel": "Не ўдалося падключыцца да сервераў Bethesda.net."
  },
  "$LoginError_BNET_XB1_ACCESS_DENIED": {
-  "en": "LoginError_BNET_XB1_ACCESS_DENIED",
+  "en": "Could not connect to the Bethesda.net servers.",
   "ru": "Не удалось связаться с серверами Bethesda.net.",
   "bel": "Не ўдалося падключыцца да сервераў Bethesda.net."
  },
  "$LoginError_BNET_XB1_DOWNLOAD_FAILURE": {
-  "en": "LoginError_BNET_XB1_DOWNLOAD_FAILURE",
+  "en": "The operation could not be completed.",
   "ru": "Не удалось выполнить операцию.",
   "bel": "Гэту аперацыю завяршыць не ўдалося."
  },
  "$LoginError_BNET_XB1_USER_ERROR": {
-  "en": "LoginError_BNET_XB1_USER_ERROR",
+  "en": "The operation could not be completed.",
   "ru": "Не удалось выполнить операцию.",
   "bel": "Гэту аперацыю завяршыць не ўдалося."
  },
  "$LoginError_BNET_XBOX_ONE_USER_ERROR": {
-  "en": "LoginError_BNET_XBOX_ONE_USER_ERROR",
+  "en": "Could not connect to the Bethesda.net servers.",
   "ru": "Не удалось связаться с серверами Bethesda.net.",
   "bel": "Не ўдалося падключыцца да сервераў Bethesda.net."
  },
  "$LoginError_FAILED_TO_LINK_TO_STEAM": {
-  "en": "LoginError_FAILED_TO_LINK_TO_STEAM",
+  "en": "You must be signed into Steam to use this feature.",
   "ru": "Вы должны войти в свою учетную запись Steam, чтобы воспользоваться этой функцией.",
   "bel": "Увайдзіце ў Steam, каб скарыстацца гэтай магчымасцю."
  },
  "$LoginError_Needs1stPartyUpdate": {
-  "en": "LoginError_Needs1stPartyUpdate",
+  "en": "An update is required in order to continue.",
   "ru": "Для продолжения работы нужно обновление.",
   "bel": "Каб працягнуць, патрабуецца ўсталяваць абнаўленне."
  },
  "$LoginError_NotSignedIn1stPartyDurango": {
-  "en": "LoginError_NotSignedIn1stPartyDurango",
+  "en": "You must be signed into an Xbox account to continue.",
   "ru": "Для продолжения работы нужно выполнить вход в учетную запись Xbox.",
   "bel": "Каб працягнуць, увайдзіце ва ўліковы запіс Xbox."
  },
  "$LoginError_NotSignedIn1stPartyOrbis": {
-  "en": "LoginError_NotSignedIn1stPartyOrbis",
+  "en": "You must be signed into a Sony Entertainment Network account to continue.",
   "ru": "Для продолжения работы нужно выполнить вход в учетную запись Sony Entertainment Network.",
   "bel": "Каб працягнуць, увайдзіце ва ўліковы запіс Sony Entertainment."
  },
  "$LoginError_PS4AuthFailed": {
-  "en": "LoginError_PS4AuthFailed",
+  "en": "PS4 Authentication Failed.",
   "ru": "Ошибка аутентификации PS4.",
   "bel": "Збой аўтэнтыфікацыі PS4."
  },
  "$LoginPage_Footer": {
-  "en": "LoginPage_Footer",
+  "en": "Play with Mods at your own risk. You may experience issues with mods. You can disable Mods via Load Order and go back to your original save at anytime using Select Character in the Load menu. Downloading and playing with Mods is subject to our Terms of Service. Note: Achievements are disabled.",
   "ru": "Вы запускаете модификации на свой страх и риск. При использовании модификаций возможны ошибки. Вы можете в любой момент деактивировать модификации с помощью меню \"Порядок загрузки\" и вернуться к изначальному сохранению с помощью меню \"Загрузить/Выбор персонажа\". На загрузку модификации игры распространяются наши Условия предоставления услуг. Внимание: достижения будут недоступны.",
   "bel": "Вы гуляеце з мадыфікацыямі на ўласную рызыку. Мадыфікацыі могуць выклікаць праблемы. Вы можаце выключаць мадыфікацыі праз меню Парадак Загрузкі і вярнуцца да арыгінальнага захавання праз выбар персанажа ў меню загрузкі. Спампоўванне мадыфікацый і гульня з імі датычацца Умоў выкарыстання. Заўвага: дасягненні будуць адключаныя."
  },
  "$LoginPage_Footer_PS4": {
-  "en": "LoginPage_Footer_PS4",
+  "en": "Play with Mods at your own risk. You may experience issues with mods. You can disable Mods via Load Order and go back to your original save at anytime using Select Character in the Load menu. Downloading and playing with Mods is subject to our Terms of Service. Note: Trophies are disabled.",
   "ru": "Вы запускаете модификации на свой страх и риск. При использовании модификаций возможны ошибки. Вы можете в любой момент деактивировать модификации с помощью меню \"Порядок загрузки\" и вернуться к изначальному сохранению с помощью меню \"Загрузить/Выбор персонажа\". На загрузку модификации игры распространяются наши Условия предоставления услуг. Внимание: призы будут недоступны.",
   "bel": "Вы гуляеце з мадыфікацыямі на ўласную рызыку. Мадыфікацыі могуць выклікаць праблемы. Вы можаце выключаць мадыфікацыі праз меню Парадак Загрузкі і вярнуцца да арыгінальнага захавання праз выбар персанажа ў меню загрузкі. Спампоўванне мадыфікацый і гульня з імі датычацца Умоў выкарыстання. Заўвага: Трафеі будуць адключаныя."
  },
  "$LoginPage_Header": {
-  "en": "LoginPage_Header",
+  "en": "Your email address is associated with an existing Bethesda.net account. Sign in to link your Bethesda.net account for automatic logging in.",
   "ru": "Ваш адрес электронной почты уже связан с учетной записью Bethesda.net. Выполните вход в систему для последующего автоматического входа.",
   "bel": "Ваш адрас электроннай пошты ўжо звязаны з існуючым уліковым запісам Bethesda.net. Увайдзіце ў яго, каб у наступным уваходзіць ва ўліковы запіс аўтаматычна."
  },
  "$Login_CreateNew": {
-  "en": "Login_CreateNew",
+  "en": "Create New Account",
   "ru": "Создать новую учетную запись",
   "bel": "Стварыць новы ўліковы запіс"
  },
@@ -3140,42 +3140,42 @@
   "bel": "Адчувальнасць камеры"
  },
  "$MAG": {
-  "en": "MAG",
+  "en": "Mag",
   "ru": "ВЕЛ",
   "bel": "ВЕЛ"
  },
  "$MAGIC": {
-  "en": "MAGIC",
+  "en": "Magic",
   "ru": "МАГИЯ",
   "bel": "МАГІЯ"
  },
  "$MAGICKA": {
-  "en": "MAGICKA",
+  "en": "Mana",
   "ru": "Мана",
   "bel": "МАГІЯ"
  },
  "$MAGNITUDE": {
-  "en": "MAGNITUDE",
+  "en": "Magnitude",
   "ru": "ВЕЛИЧИНА",
   "bel": "ВЕЛІЧЫНЯ"
  },
  "$MAP": {
-  "en": "MAP",
+  "en": "Map",
   "ru": "КАРТА",
   "bel": "МАПА"
  },
  "$MAT": {
-  "en": "MAT",
+  "en": "Mat",
   "ru": "МАТ",
   "bel": "МАТ"
  },
  "$MATERIAL": {
-  "en": "MATERIAL",
+  "en": "Material",
   "ru": "МАТЕРИАЛ",
   "bel": "МАТЭРЫЯЛ"
  },
  "$MISCELLANEOUS": {
-  "en": "MISCELLANEOUS",
+  "en": "Miscellaneous",
   "ru": "РАЗНОЕ",
   "bel": "РОЗНАЕ"
  },
@@ -3185,7 +3185,7 @@
   "bel": "НАЛАДЫ МАДЫФІКАЦЫЙ"
  },
  "$MOD MANAGER": {
-  "en": "MOD MANAGER",
+  "en": "MODS",
   "ru": "МОДИФИКАЦИИ",
   "bel": "МАДЫФІКАЦЫІ"
  },
@@ -3215,7 +3215,7 @@
   "bel": "Меню магіі"
  },
  "$Magic Resist": {
-  "en": "Magic Resist",
+  "en": "Magic Resistance",
   "ru": "Сопротивление магии",
   "bel": "Стайкасць да магіі"
  },
@@ -3225,12 +3225,12 @@
   "bel": "Магічнае"
  },
  "$Magicka": {
-  "en": "Magicka",
+  "en": "Mana",
   "ru": "Мана",
   "bel": "Магія"
  },
  "$Magicka Rate": {
-  "en": "Magicka Rate",
+  "en": "Mana Regeneration",
   "ru": "Восстановление маны",
   "bel": "Аднаўленне маны"
  },
@@ -3305,52 +3305,52 @@
   "bel": "Выканана другасных заданняў"
  },
  "$ModLimitLabel": {
-  "en": "ModLimitLabel",
+  "en": "Mods Downloaded",
   "ru": "Модов загружено",
   "bel": "Стварэнняў сцягнута"
  },
  "$ModSpace:": {
-  "en": "ModSpace:",
+  "en": "Total:",
   "ru": "Всего:",
   "bel": "Агулам:"
  },
  "$Mod_AccountSettings": {
-  "en": "Mod_AccountSettings",
+  "en": "Options",
   "ru": "Настройки",
   "bel": "Налады"
  },
  "$Mod_Details": {
-  "en": "Mod_Details",
+  "en": "Details",
   "ru": "Подробности",
   "bel": "Дэталі"
  },
  "$Mod_LibraryDelete": {
-  "en": "Mod_LibraryDelete",
+  "en": "Delete",
   "ru": "Удалить",
   "bel": "Выдаліць"
  },
  "$Mod_LibraryDisable": {
-  "en": "Mod_LibraryDisable",
+  "en": "Disable",
   "ru": "Деактивировать",
   "bel": "Выключыць"
  },
  "$Mod_LibraryEnable": {
-  "en": "Mod_LibraryEnable",
+  "en": "Enable",
   "ru": "Активировать",
   "bel": "Уключыць"
  },
  "$Mod_MyLibrary": {
-  "en": "Mod_MyLibrary",
+  "en": "Load Order",
   "ru": "Порядок загрузки",
   "bel": "Парадак загрузкі"
  },
  "$Mod_Reorder": {
-  "en": "Mod_Reorder",
+  "en": "Reorder",
   "ru": "Поменять порядок",
   "bel": "Спарадчыць"
  },
  "$Mod_Search": {
-  "en": "Mod_Search",
+  "en": "Search",
   "ru": "Поиск",
   "bel": "Пошук"
  },
@@ -3360,52 +3360,52 @@
   "bel": "Мораг Тонг"
  },
  "$Most Gold Carried": {
-  "en": "Most Gold Carried",
+  "en": "Most Pennies Carried",
   "ru": "Максимум золота",
   "bel": "Найбольшая сума золата"
  },
  "$MostFavorited": {
-  "en": "MostFavorited",
+  "en": "Most Favorited",
   "ru": "Больше всего раз добавлено в \"Избранное\"",
   "bel": "САМЫЯ ПАПУЛЯРНЫЯ"
  },
  "$MostFavoritedAllTime": {
-  "en": "MostFavoritedAllTime",
+  "en": "Most Favorited - All Time",
   "ru": "Больше всего раз добавлено в \"Избранное\" - за все время",
   "bel": "Самыя ўлюбёныя — увесь час"
  },
  "$MostFavoritedThisMonth": {
-  "en": "MostFavoritedThisMonth",
+  "en": "Most Favorited - This Month",
   "ru": "Больше всего раз добавлено в \"Избранное\" - в этом месяце",
   "bel": "Самыя ўлюбёныя — гэты месяц"
  },
  "$MostFavoritedThisWeek": {
-  "en": "MostFavoritedThisWeek",
+  "en": "Most Favorited - This Week",
   "ru": "Больше всего раз добавлено в \"Избранное\" - на этой неделе",
   "bel": "Найбольш разоў дададзена ў \"Выбранае\" - на гэтым тыдні"
  },
  "$MostFavoritedToday": {
-  "en": "MostFavoritedToday",
+  "en": "Most Favorited - Today",
   "ru": "Больше всего раз добавлено в \"Избранное\" - сегодня",
   "bel": "Самыя ўлюбёныя — сёння"
  },
  "$MostPopularAllTime": {
-  "en": "MostPopularAllTime",
+  "en": "Most Popular - All Time",
   "ru": "Самые популярные - за все время",
   "bel": "САМЫЯ ПАПУЛЯРНЫЯ- УВЕСЬ ЧАС"
  },
  "$MostPopularThisMonth": {
-  "en": "MostPopularThisMonth",
+  "en": "Most Popular - This Month",
   "ru": "Самые популярные - в этом месяце",
   "bel": "САМЫЯ ПАПУЛЯРНЫЯ- ГЭТЫ МЕСЯЦ"
  },
  "$MostPopularThisWeek": {
-  "en": "MostPopularThisWeek",
+  "en": "Most Popular - This Week",
   "ru": "Самые популярные - на этой неделе",
   "bel": "САМЫЯ ПАПУЛЯРНЫЯ- ГЭТЫ ТЫДЗЕНЬ"
  },
  "$MostPopularToday": {
-  "en": "MostPopularToday",
+  "en": "Most Popular - Today",
   "ru": "Самые популярные - сегодня",
   "bel": "САМЫЯ ПАПУЛЯРНЫЯ- СЁННЯ"
  },
@@ -3440,62 +3440,62 @@
   "bel": "МАЯ БІБЛІЯТЭКА"
  },
  "$Myradtravel00": {
-  "en": "Myradtravel00",
+  "en": "Ark",
   "ru": "Арк",
   "bel": "Арк"
  },
  "$Myradtravel01": {
-  "en": "Myradtravel01",
+  "en": "Ark, Western Wall",
   "ru": "Арк, Западная стена",
   "bel": "Арк, Заходняя сцяна"
  },
  "$Myradtravel02": {
-  "en": "Myradtravel02",
+  "en": "Riverville",
   "ru": "Речное",
   "bel": "Рачное"
  },
  "$Myradtravel03": {
-  "en": "Myradtravel03",
+  "en": "Border of the Heartland",
   "ru": "Граница Сердцеземья",
   "bel": "Мяжа Сэрцазем'я"
  },
  "$Myradtravel04": {
-  "en": "Myradtravel04",
+  "en": "Western Cliff",
   "ru": "Западный утес",
   "bel": "Заходні ўцёс"
  },
  "$Myradtravel05": {
-  "en": "Myradtravel05",
+  "en": "Northern Heartland",
   "ru": "Север Сердцеземья",
   "bel": "Поўнач Сэрцазем'я"
  },
  "$Myradtravel06": {
-  "en": "Myradtravel06",
+  "en": "Farmers Coast",
   "ru": "Фермерское побережье",
   "bel": "Фермерскае ўзбярэжжа"
  },
  "$Myradtravel07": {
-  "en": "Myradtravel07",
+  "en": "Frostcliff Tavern",
   "ru": "Таверна \"Морозный утес\"",
   "bel": "Таверна «Марозны ўцёс»"
  },
  "$Myradtravel08": {
-  "en": "Myradtravel08",
+  "en": "Duneville",
   "ru": "Дюнное",
   "bel": "Дзюннае"
  },
  "$Myradtravel09": {
-  "en": "Myradtravel09",
+  "en": "Wellwatch",
   "ru": "Добростраж",
   "bel": "Добрастраж"
  },
  "$Myradtravel10": {
-  "en": "Myradtravel10",
+  "en": "Fogville",
   "ru": "Туманное",
   "bel": "Туманнае"
  },
  "$Myradtravel11": {
-  "en": "Myradtravel11",
+  "en": "Dark Valley",
   "ru": "Темная долина",
   "bel": "Цёмная даліна"
  },
@@ -3515,17 +3515,17 @@
   "bel": "Вампірскіх укусаў"
  },
  "$Need Updates": {
-  "en": "Need Updates",
+  "en": "Updates Available",
   "ru": "Доступны обновления",
   "bel": "Ёсць абнаўленні"
  },
  "$New content available": {
-  "en": "New content available",
+  "en": "New content available!",
   "ru": "Доступен новый контент!",
   "bel": "Даступна новае змесціва!"
  },
  "$NewsOptInMessage": {
-  "en": "NewsOptInMessage",
+  "en": "Send me news about Bethesda!",
   "ru": "Я хочу получать новости от Bethesda!",
   "bel": "Дасылайце мне навіны ад Bethesda!"
  },
@@ -3545,12 +3545,12 @@
   "bel": "Наст./Папяр."
  },
  "$Nightingale": {
-  "en": "Nightingale",
+  "en": "Assassin",
   "ru": "Соловьиное",
   "bel": "Салавінае"
  },
  "$Nirnroots Found": {
-  "en": "Nirnroots Found",
+  "en": "Vynroots Found",
   "ru": "Найдено корней Вина",
   "bel": "Знойдзена каранёў Нірна"
  },
@@ -3560,12 +3560,12 @@
   "bel": "Не"
  },
  "$No content downloaded": {
-  "en": "No content downloaded",
+  "en": "No Add-Ons downloaded.",
   "ru": "Дополнения не загружены",
   "bel": "Няма сцягнутых дадаткаў"
  },
  "$No content downloaded_PS3": {
-  "en": "No content downloaded_PS3",
+  "en": "No content downloaded.",
   "ru": "Контент не загружен",
   "bel": "Няма сцягнутых дадаткаў"
  },
@@ -3575,7 +3575,7 @@
   "bel": "Змесціва ня знойдзена."
  },
  "$No refunds.All purchases final.": {
-  "en": "No refunds.All purchases final.",
+  "en": "Are you sure you want to purchase Creation?",
   "ru": "Вы уверены, что хотите приобрести это творение?",
   "bel": "Сапраўды хочаце набыць Стварэнне?"
  },
@@ -3590,12 +3590,12 @@
   "bel": "Нордскае"
  },
  "$Normal": {
-  "en": "Normal",
+  "en": "Adept",
   "ru": "Адепт",
   "bel": "Адэпт"
  },
  "$Not enough credits": {
-  "en": "Not enough credits",
+  "en": "You don't have enough Creation Credits to purchase this item.",
   "ru": "Недостаточно кредитов творчества для приобретения этого творения.",
   "bel": "Вам бракуе Клубных Крэдытаў, каб набыць Стварэнне."
  },
@@ -3605,7 +3605,7 @@
   "bel": "Запіска"
  },
  "$OBJECTIVES": {
-  "en": "OBJECTIVES",
+  "en": "Objectives",
   "ru": "ЗАДАЧИ",
   "bel": "МЭТЫ"
  },
@@ -3640,12 +3640,12 @@
   "bel": "Уключана"
  },
  "$One Handed": {
-  "en": "One Handed",
+  "en": "One-handed",
   "ru": "Одноручное",
   "bel": "Аднаручнае"
  },
  "$Open Menu": {
-  "en": "Open Menu",
+  "en": "open Menu",
   "ru": "Открыть меню",
   "bel": "Адкрыць меню"
  },
@@ -3660,7 +3660,7 @@
   "bel": "Адкрыць Xbox LIVE Marketplace?"
  },
  "$Orcish": {
-  "en": "Orcish",
+  "en": "Rune, Pyrean",
   "ru": "Орочье",
   "bel": "Арочае"
  },
@@ -3685,7 +3685,7 @@
   "bel": "Іншае"
  },
  "$Owned": {
-  "en": "Owned",
+  "en": "OWNED",
   "ru": "У ВАС ЕСТЬ",
   "bel": "МАЕЦЦА"
  },
@@ -3705,12 +3705,12 @@
   "bel": "Забіта людзей"
  },
  "$Perks to increase:": {
-  "en": "Perks to increase:",
+  "en": "Talents to increase:",
   "ru": "Способностей осталось:",
   "bel": "Ачкоў здольнасцяў:"
  },
  "$Persuasions": {
-  "en": "Persuasions",
+  "en": "Persuaded People",
   "ru": "Убеждений",
   "bel": "Перакананняў"
  },
@@ -3730,12 +3730,12 @@
   "bel": "Кірка"
  },
  "$Pickpocket": {
-  "en": "Pickpocket",
+  "en": "Sleight of Hand",
   "ru": "Карманная кража",
   "bel": "Кішэнная крадзеж"
  },
  "$Player Gold": {
-  "en": "Player Gold",
+  "en": "Player Pennies",
   "ru": "Золото",
   "bel": "Золата"
  },
@@ -3750,7 +3750,7 @@
   "bel": "Яд"
  },
  "$Poison Resist": {
-  "en": "Poison Resist",
+  "en": "Poison Resistance",
   "ru": "Сопротивление ядам",
   "bel": "Стайкасць да ядаў"
  },
@@ -3790,7 +3790,7 @@
   "bel": "Налады"
  },
  "$Press [START]": {
-  "en": "Press [START]",
+  "en": "PRESS ANY BUTTON",
   "ru": "НАЖМИТЕ ЛЮБУЮ КНОПКУ",
   "bel": "Націсніце [START]"
  },
@@ -3820,12 +3820,12 @@
   "bel": "Набыта"
  },
  "$QUEST": {
-  "en": "QUEST",
+  "en": "Quest",
   "ru": "ЗАДАНИЯ",
   "bel": "ЗАДАННІ"
  },
  "$QUESTS": {
-  "en": "QUESTS",
+  "en": "Quests",
   "ru": "ЗАДАНИЯ",
   "bel": "ЗАДАННІ"
  },
@@ -3880,7 +3880,7 @@
   "bel": "Хуткая статыстыка"
  },
  "$QuickAccountPage_Header": {
-  "en": "QuickAccountPage_Header",
+  "en": "By selecting “Create Account”, I confirm that I am 13 years or older and agree to the Terms of Service, Privacy Policy, and Code of Conduct. Creating an account will link your Bethesda.net account for automatic logging in.\t",
   "ru": "Выбирая «Создать учетную запись», я подтверждаю, что мне не менее 13 лет, и принимаю Условия обслуживания, Политику конфиденциальности и Правила поведения. Созданная учетная запись будет связана с вашей учетной записью Bethesda.net для автоматического входа в сеть.",
   "bel": "Выбіраючы «Стварыць уліковы запіс», я пацвярджаю, што мне 13 ці больш гадоў, і пагаджаюся з Умовамі выкарыстання, Палітыкай прыватнасці і Правіламі паводзін. Стварэнне ўліковага запісу задзейнічае аўтаматычны ўваход у ваш уліковы запіс Bethesda.net. Завярніце ўвагу, што прывязка ўліковага запісу Bethesda.net распаўсюдзіцца на ўсю прадукцыю ZeniMax, якая выкарыстоўвае ўліковыя запісы."
  },
@@ -3920,22 +3920,22 @@
   "bel": "Выйсці ў галоўнае мэню? Увесь незахаваны прагрэс будзе страчаны."
  },
  "$RACE": {
-  "en": "RACE",
+  "en": "Race",
   "ru": "РАСА",
   "bel": "РАСА"
  },
  "$RECHARGE": {
-  "en": "RECHARGE",
+  "en": "Recharge",
   "ru": "ПЕРЕЗАРЯДКА",
   "bel": "ЛАДАВАЦЬ"
  },
  "$REQUIRED_DLC": {
-  "en": "REQUIRED_DLC",
+  "en": "Required DLC:",
   "ru": "Требуется дополнение:",
   "bel": "Патрэбны DLC:"
  },
  "$REQUIRED_MODS": {
-  "en": "REQUIRED_MODS",
+  "en": "Required Mods:",
   "ru": "Требуются модификации:",
   "bel": "Патрэбны стварэнні:"
  },
@@ -3975,47 +3975,47 @@
   "bel": "Паскардзіцца"
  },
  "$ReportModCat_BadName": {
-  "en": "ReportModCat_BadName",
+  "en": "Bad Name",
   "ru": "Недопустимое имя",
   "bel": "Недапушчальная назва"
  },
  "$ReportModCat_GeneralAbuse": {
-  "en": "ReportModCat_GeneralAbuse",
+  "en": "General Abuse",
   "ru": "Злоупотребление",
   "bel": "Агульнае парушэнне"
  },
  "$ReportModCat_Harassment": {
-  "en": "ReportModCat_Harassment",
+  "en": "Harassment",
   "ru": "Причинение беспокойства",
   "bel": "Пераслед/дамаганне"
  },
  "$ReportModCat_MaliciousContent": {
-  "en": "ReportModCat_MaliciousContent",
+  "en": "Malicious Content",
   "ru": "Вредоносное содержимое",
   "bel": "Шкоднае змесціва"
  },
  "$ReportModCat_Misplaced": {
-  "en": "ReportModCat_Misplaced",
+  "en": "Misplaced",
   "ru": "Неверная категория",
   "bel": "Няверная катэгорыя"
  },
  "$ReportModCat_OffensiveContent": {
-  "en": "ReportModCat_OffensiveContent",
+  "en": "Offensive Content",
   "ru": "Оскорбительное содержимое",
   "bel": "Абразлівае змесціва"
  },
  "$ReportModCat_PiracyOrStolen": {
-  "en": "ReportModCat_PiracyOrStolen",
+  "en": "Piracy or Stolen",
   "ru": "Пиратство или воровство",
   "bel": "Пірацтва або крадзеж"
  },
  "$ReportModCat_PrivateInfo": {
-  "en": "ReportModCat_PrivateInfo",
+  "en": "Use of Private Information",
   "ru": "Раскрытие личной информации",
   "bel": "Выкарыстанне асабістай інфармацыі"
  },
  "$ReportModCat_Spam": {
-  "en": "ReportModCat_Spam",
+  "en": "Spam",
   "ru": "Спам",
   "bel": "Спам"
  },
@@ -4045,7 +4045,7 @@
   "bel": "Супраціў"
  },
  "$Rest how long?": {
-  "en": "Rest how long?",
+  "en": "How long would you like to rest?",
   "ru": "Сколько отдыхать?",
   "bel": "Колькі адпачываць?"
  },
@@ -4060,7 +4060,7 @@
   "bel": "Права"
  },
  "$Right Attack/Block": {
-  "en": "Right Attack/Block",
+  "en": "Right Hand",
   "ru": "Правая рука",
   "bel": "Правая рука"
  },
@@ -4100,12 +4100,12 @@
   "bel": "ЗАХАВАННЕ САСТАРЭЛА"
  },
  "$SCHOOL": {
-  "en": "SCHOOL",
+  "en": "School",
   "ru": "ШКОЛА",
   "bel": "ШКОЛА"
  },
  "$SECOND WORD": {
-  "en": "SECOND WORD",
+  "en": "Second Tier",
   "ru": "ВТОРОЙ УР.",
   "bel": "ДРУГІ УЗР."
  },
@@ -4115,87 +4115,87 @@
   "bel": "НАЛАДЫ"
  },
  "$SKILL LEVEL": {
-  "en": "SKILL LEVEL",
+  "en": "Skill Level",
   "ru": "УРОВЕНЬ НАВЫКА",
   "bel": "УЗРОВЕНЬ НАВЫКУ"
  },
  "$SKILLS": {
-  "en": "SKILLS",
+  "en": "Skills",
   "ru": "НАВЫКИ",
   "bel": "НАВЫКІ"
  },
  "$SKI_INFO1{}": {
-  "en": "SKI_INFO1{}",
+  "en": "Default: {}",
   "ru": "По умолчанию: {}",
   "bel": "Па змаўчанні: {}"
  },
  "$SKI_INFO2{}": {
-  "en": "SKI_INFO2{}",
+  "en": "Number of items required to trigger quantity menu, or 0 to disable it.\\nDefault: {}",
   "ru": "Количество элементов необходимое для инициализации меню, число или 0 чтобы отключить.\\nПо умолчанию: {}",
   "bel": "Колькасць элементаў, неабходных для ініцыялізацыі меню, лік ці 0 каб адключыць.\nПа змаўчанні: {}"
  },
  "$SKI_INFO3{}": {
-  "en": "SKI_INFO3{}",
+  "en": "Incompatible or outdated SWFs may break SkyUI functionality. This only disables the warning message!\\nDefault: {}",
   "ru": "Несовместимый или устаревший SWF файл может нарушить работу SkyUI. Эта функция отключит всплывающее сообщение!\\nПо умолчанию: {}",
   "bel": "Несумяшчальны ці састарэлы SWF-файл можа парушыць працу SkyUI. Гэта функцыя адключыць усплывальнае паведамленне!\nПа змаўчанні: {}"
  },
  "$SKI_INFO4{}": {
-  "en": "SKI_INFO4{}",
+  "en": "Disables Positioning of the 3D Item.\\nDefault: {}",
   "ru": "Запретить позиционирование 3D объекта в окне просмотра.\\nПо умолчанию: {}",
   "bel": "Забараніць пазіцыянаванне 3D-аб'екта ў вакне прагляду.\nПа змаўчанні: {}"
  },
  "$SKI_INFO5{}": {
-  "en": "SKI_INFO5{}",
+  "en": "Hide effects with a remaining time higher than this. 0 to show all.\\nDefault: {}",
   "ru": "Продолжительность отображения от эффектов на дисплее. 0 показывать всегда \\nПо умолчанию: {}",
   "bel": "Працягласць паказу эфектаў на дысплеі. 0 — паказваць заўсёды \nПа змаўчанні: {}"
  },
  "$SKI_INFO6": {
-  "en": "SKI_INFO6",
+  "en": "Each group can be configured individually.",
   "ru": "Каждая группа может иметь индивидуальные настройки",
   "bel": "Кожная група можа мець індывідуальныя налады"
  },
  "$SKI_INFO7{}": {
-  "en": "SKI_INFO7{}",
+  "en": "Unequip all armor before Group Use?\\nDefault: {}",
   "ru": "Снять всю броню перед использованием группы?\\nПо умолчанию: {}",
   "bel": "Сняць усю броню перад выкарыстаннем групы?\nПа змаўчанні: {}"
  },
  "$SKI_INFO8{}": {
-  "en": "SKI_INFO8{}",
+  "en": "Unequip both hands before Group Use?\\nDefault: {}",
   "ru": "Разоружить обе руки перед использованием группы?\\nПо умолчанию: {}",
   "bel": "Раззброіць абедзве рукі перад выкарыстаннем групы?\nПа змаўчанні: {}"
  },
  "$SKI_INFO9{}": {
-  "en": "SKI_INFO9{}",
+  "en": "Unequip any ammo before Group Use?\\nDefault: {}",
   "ru": "Снять любые боеприпасы перед использованием группы?\\nПо умолчанию: {}",
   "bel": "Сняць любыя боепрыпасы перад выкарыстаннем групы?\nПа змаўчанні: {}"
  },
  "$SKI_MSG1": {
-  "en": "SKI_MSG1",
+  "en": "This control requires a keyboard mapping.",
   "ru": "Для этой функции необходимо назначить клавишу.",
   "bel": "Для гэтай функцыі неабходна прызначыць клавішу."
  },
  "$SKI_MSG2{}": {
-  "en": "SKI_MSG2{}",
+  "en": "This key is already mapped to:\\n{}\\n\\nAre you sure you want to continue?",
   "ru": "Эта клавиша уже используется:\\n{}\\n\\nВы уверены, что хотите продолжить?",
   "bel": "Гэтая клавіша ўжо выкарыстоўваецца:\n{}\n\nВы ўпэўнены, што хочаце працягнуць?"
  },
  "$SOURCE": {
-  "en": "SOURCE",
+  "en": "Source",
   "ru": "ИСТОЧНИК",
   "bel": "КРЫНІЦА"
  },
  "$SPELL COST": {
-  "en": "SPELL COST",
+  "en": "Spell Cost",
   "ru": "СТОИМОСТЬ",
   "bel": "ВАРТАСЦЬ"
  },
  "$STAMINA": {
-  "en": "STAMINA",
+  "en": "Stamina",
   "ru": "Запас сил",
   "bel": "ЗАПАС СІЛ"
  },
  "$STOLEN": {
-  "en": "STOLEN",
+  "en": "Stolen",
   "ru": "УКРАДЕНО",
   "bel": "УКРАДЗЕНА"
  },
@@ -4205,7 +4205,7 @@
   "bel": "Праверка версіі SWF"
  },
  "$SYSTEM": {
-  "en": "SYSTEM",
+  "en": "System",
   "ru": "СИСТЕМА",
   "bel": "СІСТЭМА"
  },
@@ -4220,7 +4220,7 @@
   "bel": "Захаваць стан экіпіроўкі"
  },
  "$Save on Pause": {
-  "en": "Save on Pause",
+  "en": "Autosave Interval",
   "ru": "Автосохранение в меню паузы",
   "bel": "Аўт. захаванне ў меню героя"
  },
@@ -4330,22 +4330,22 @@
   "bel": "Шчыт"
  },
  "$Shout": {
-  "en": "Shout",
+  "en": "Talent/Power",
   "ru": "Способность/Талант",
   "bel": "Крык/Моц"
  },
  "$Shouts Learned": {
-  "en": "Shouts Learned",
+  "en": "Talents Learned ",
   "ru": "Выучено способностей",
   "bel": "Вывучана Крыкаў"
  },
  "$Shouts Mastered": {
-  "en": "Shouts Mastered",
+  "en": "Talents Mastered",
   "ru": "Освоено полностью способностей",
   "bel": "Вывучана Крыкаў цалкам"
  },
  "$Shouts Unlocked": {
-  "en": "Shouts Unlocked",
+  "en": "Talents Unlocked",
   "ru": "Открыто способностей",
   "bel": "Крыкаў разблакавана"
  },
@@ -4365,7 +4365,7 @@
   "bel": "Паказаць на мапе"
  },
  "$ShowAllSave": {
-  "en": "ShowAllSave",
+  "en": "Show All Saves",
   "ru": "Показать все сохранения",
   "bel": "Паказаць усе захаванні"
  },
@@ -4390,12 +4390,12 @@
   "bel": "Навык"
  },
  "$Skill Books Read": {
-  "en": "Skill Books Read",
+  "en": "Learning Books Read",
   "ru": "Прочитано учебных книг",
   "bel": "Прачытана кніг навыкаў"
  },
  "$Skill Increases": {
-  "en": "Skill Increases",
+  "en": "Skill Increased",
   "ru": "Повышений навыков",
   "bel": "Павышэнняў навыкаў"
  },
@@ -4415,7 +4415,7 @@
   "bel": "Малы"
  },
  "$Smithing": {
-  "en": "Smithing",
+  "en": "Handicraft",
   "ru": "Ремесло",
   "bel": "Рамяство"
  },
@@ -4450,7 +4450,7 @@
   "bel": "Кап'ё"
  },
  "$Spectralize": {
-  "en": "Spectralize",
+  "en": "Equip Item",
   "ru": "Снарядить предмет (спектрализовать)",
   "bel": "Снарадзіць прадмет (спектралізаваць)"
  },
@@ -4460,7 +4460,7 @@
   "bel": "Бачнасць адлюстраванняў"
  },
  "$Speechcraft": {
-  "en": "Speechcraft",
+  "en": "Rhetoric",
   "ru": "Риторика",
   "bel": "Рыторыка"
  },
@@ -4500,7 +4500,7 @@
   "bel": "З. сіл"
  },
  "$Stamina Rate": {
-  "en": "Stamina Rate",
+  "en": "Stamina Regeneration",
   "ru": "Восстановление запаса сил",
   "bel": "Аднаўленне запасу сіл"
  },
@@ -4520,7 +4520,7 @@
   "bel": "Стальное"
  },
  "$Steel Plate": {
-  "en": "Steel Plate",
+  "en": "Fine Steel",
   "ru": "Сталь. пласт.",
   "bel": "Сталь. пласт."
  },
@@ -4540,7 +4540,7 @@
   "bel": "Зроблена інвестыцый"
  },
  "$Stormcloak": {
-  "en": "Stormcloak",
+  "en": "Chainmail",
   "ru": "Братьев",
   "bel": "Братоў"
  },
@@ -4555,7 +4555,7 @@
   "bel": "Крочыць у правы бок"
  },
  "$StreamingInstallTitle": {
-  "en": "StreamingInstallTitle",
+  "en": "Installing Skyrim Special Edition, Please wait...",
   "ru": "Установка игры Skyrim Special Edition. Подождите…",
   "bel": "Усталёўваецца Skyrim Special Edition, пачакайце..."
  },
@@ -4585,27 +4585,27 @@
   "bel": "Меч"
  },
  "$TAKE GIFT": {
-  "en": "TAKE GIFT",
+  "en": "Take Gift",
   "ru": "ПРИНЯТЬ ПОДАРОК",
   "bel": "ПРЫНЯЦЬ ПАДАРУНАК"
  },
  "$THIRD WORD": {
-  "en": "THIRD WORD",
+  "en": "Third Tier",
   "ru": "ТРЕТИЙ УР.",
   "bel": "ТРЭЦІ УЗР."
  },
  "$TIME": {
-  "en": "TIME",
+  "en": "Time",
   "ru": "ВРЕМЯ",
   "bel": "ЧАС"
  },
  "$TIME LEFT": {
-  "en": "TIME LEFT",
+  "en": "Time Left",
   "ru": "ОСТАВШЕЕСЯ ВРЕМЯ",
   "bel": "АСТАТНІ ЧАС"
  },
  "$TYPE": {
-  "en": "TYPE",
+  "en": "Type",
   "ru": "ТИП",
   "bel": "ТЫП"
  },
@@ -4625,32 +4625,32 @@
   "bel": "Узяць усё"
  },
  "$Tavern Games - Dice Jack: ex aequo": {
-  "en": "Tavern Games - Dice Jack: ex aequo",
+  "en": "Tavern Games - \"Morala's Dices\": Ex Aqueo",
   "ru": "Игры в таверне - \"Кубики Моралы\": Третейских судов",
   "bel": "Ігры ў таверне - «Кубікі Моралы»: Трэцейскіх судоў"
  },
  "$Tavern Games - Dice Jack: lost games": {
-  "en": "Tavern Games - Dice Jack: lost games",
+  "en": "Tavern Games - \"Morala's Dices\": Lost Games",
   "ru": "Игры в таверне - \"Кубики Моралы\": Поражений",
   "bel": "Ігры ў таверне - «Кубікі Моралы»: Паражэнняў"
  },
  "$Tavern Games - Dice Jack: lost gold": {
-  "en": "Tavern Games - Dice Jack: lost gold",
+  "en": "Tavern Games - \"Morala's Dices\": Lost Pennies",
   "ru": "Игры в таверне - \"Кубики Моралы\": Проигранных медяков",
   "bel": "Ігры ў таверне - «Кубікі Моралы»: Прайграных медзякоў"
  },
  "$Tavern Games - Dice Jack: victory ratio": {
-  "en": "Tavern Games - Dice Jack: victory ratio",
+  "en": "Tavern Games - \"Morala's Dices\": Victory Ratio",
   "ru": "Игры в таверне - \"Кубики Моралы\": Коэффициент побед",
   "bel": "Ігры ў таверне - «Кубікі Моралы»: Каэфіцыент перамог"
  },
  "$Tavern Games - Dice Jack: won games": {
-  "en": "Tavern Games - Dice Jack: won games",
+  "en": "Tavern Games - \"Morala's Dices\": Won Games",
   "ru": "Игры в таверне - \"Кубики Моралы\": Побед",
   "bel": "Ігры ў таверне - «Кубікі Моралы»: Перамог"
  },
  "$Tavern Games - Dice Jack: won gold": {
-  "en": "Tavern Games - Dice Jack: won gold",
+  "en": "Tavern Games - \"Morala's Dices\": Won Pennies",
   "ru": "Игры в таверне - \"Кубики Моралы\": Заработанных медяков",
   "bel": "Ігры ў таверне - «Кубікі Моралы»: Зарабаваных медзякоў"
  },
@@ -4665,52 +4665,52 @@
   "bel": "Гэта кнопка зарэзервавана."
  },
  "$The Companions Quests Completed": {
-  "en": "The Companions Quests Completed",
+  "en": "Character Quests of Jespar Completed",
   "ru": "Выполнено заданий Джеспара",
   "bel": "Выканана заданняў Паплечнікаў"
  },
  "$The Dark Brotherhood Quests Completed": {
-  "en": "The Dark Brotherhood Quests Completed",
+  "en": "Character Quests of Calia Completed",
   "ru": "Выполнено заданий Калии",
   "bel": "Выканана заданняў Цёмнага Хаўрусу"
  },
  "$The Pale Bounty": {
-  "en": "The Pale Bounty",
+  "en": "Not in use",
   "ru": "Не используется",
   "bel": "Узнагарода за галаву на Краі"
  },
  "$The Reach Bounty": {
-  "en": "The Reach Bounty",
+  "en": "Not in use",
   "ru": "Не используется",
   "bel": "Узнагарода за галаву на Мяжы"
  },
  "$The Rift Bounty": {
-  "en": "The Rift Bounty",
+  "en": "Not in use",
   "ru": "Не используется",
   "bel": "Узнагарода за галаву ў Цясніне"
  },
  "$Thieves' Guild Quests Completed": {
-  "en": "Thieves' Guild Quests Completed",
+  "en": "Golden Sickle Quests Completed",
   "ru": "Выполнено заданий Золотого серпа",
   "bel": "Выканана заданняў Гільдыі Зладзеяў"
  },
  "$TimeFilterAll": {
-  "en": "TimeFilterAll",
+  "en": "Filter By Time (All)",
   "ru": "По времени создания (без фильтра)",
   "bel": "Фільтраваць па часе (увесь)"
  },
  "$TimeFilterMonth": {
-  "en": "TimeFilterMonth",
+  "en": "Filter By Time (Month)",
   "ru": "По времени создания (в этом месяце)",
   "bel": "Фільтраваць па часе (за месяц)"
  },
  "$TimeFilterToday": {
-  "en": "TimeFilterToday",
+  "en": "Filter By Time (Today)",
   "ru": "По времени создания (сегодня)",
   "bel": "Фільтраваць па часе (за сёння)"
  },
  "$TimeFilterWeek": {
-  "en": "TimeFilterWeek",
+  "en": "Filter By Time (Week)",
   "ru": "По времени создания (на этой неделе)",
   "bel": "Фільтраваць па часе (за тыдзень)"
  },
@@ -4725,7 +4725,7 @@
   "bel": "Шлюбаў"
  },
  "$Times Shouted": {
-  "en": "Times Shouted",
+  "en": "Talents used",
   "ru": "Число криков",
   "bel": "Колькі разоў ужываўся крык"
  },
@@ -4735,7 +4735,7 @@
   "bel": "Практыкаванняў: "
  },
  "$ToS": {
-  "en": "ToS",
+  "en": "Terms of Service",
   "ru": "Правила предоставления услуг",
   "bel": "Умовы выкарыстання"
  },
@@ -4765,27 +4765,27 @@
   "bel": "Пераключыць від"
  },
  "$TooFast": {
-  "en": "TooFast",
+  "en": "Too Fast",
   "ru": "Слишком быстро",
   "bel": "Заўсёды бегчы"
  },
  "$TooLoud": {
-  "en": "TooLoud",
+  "en": "Too Loud",
   "ru": "Слишком громко",
   "bel": "Занадта гучна"
  },
  "$TooNoisy": {
-  "en": "TooNoisy",
+  "en": "Too Noisy",
   "ru": "Слишком шумно",
   "bel": "Занадта шумна"
  },
  "$TooQuiet": {
-  "en": "TooQuiet",
+  "en": "Too Quiet",
   "ru": "Слишком тихо",
   "bel": "Занадта ціха"
  },
  "$TooSlow": {
-  "en": "TooSlow",
+  "en": "Too Slow",
   "ru": "Слишком медленно",
   "bel": "Занадта ціха"
  },
@@ -4840,12 +4840,12 @@
   "bel": "Уварванняў"
  },
  "$Tribal Orcs Bounty": {
-  "en": "Tribal Orcs Bounty",
+  "en": "Not in use",
   "ru": "Не используется",
   "bel": "Узнагарода за галаву ў оркаў"
  },
  "$TryAgain": {
-  "en": "TryAgain",
+  "en": "Try Again",
   "ru": "Повторите попытку",
   "bel": "Паспрабуйце зноў"
  },
@@ -4855,17 +4855,17 @@
   "bel": "Перагарнуць"
  },
  "$Tween Menu": {
-  "en": "Tween Menu",
+  "en": "Character Menu",
   "ru": "Меню персонажа",
   "bel": "Мэню героя"
  },
  "$Two Handed": {
-  "en": "Two Handed",
+  "en": "Two-handed",
   "ru": "Двуручное",
   "bel": "Двухручнае"
  },
  "$UNKNOWN": {
-  "en": "UNKNOWN",
+  "en": "Unknown",
   "ru": "НЕИЗВЕСТНО",
   "bel": "НЕВЯДОМА"
  },
@@ -4875,12 +4875,12 @@
   "bel": "АБНАВІЦЬ"
  },
  "$USE CONSOLE EMAIL": {
-  "en": "USE CONSOLE EMAIL",
+  "en": "Auto Populate Email",
   "ru": "Автозаполнение адреса электронной почты",
   "bel": "Аўтазапаўненне e-mail"
  },
  "$Undead Killed": {
-  "en": "Undead Killed",
+  "en": "Lost-Ones Killed",
   "ru": "Убито потерянных",
   "bel": "Забіта нежыці"
  },
@@ -4905,12 +4905,12 @@
   "bel": "Прыбраць з абранага"
  },
  "$Unfollow": {
-  "en": "Unfollow",
+  "en": "Unfavorite",
   "ru": "Удаление из избранного",
   "bel": "Прыбраць з абранага"
  },
  "$Unfollowing": {
-  "en": "Unfollowing",
+  "en": "Unfavoriting...",
   "ru": "Перемещение из избранного...",
   "bel": "Прыбраць з абранага..."
  },
@@ -4955,17 +4955,17 @@
   "bel": "Ц/В"
  },
  "$VAL": {
-  "en": "VAL",
+  "en": "Val",
   "ru": "ЦЕНА",
   "bel": "ЦАНА"
  },
  "$VALUE": {
-  "en": "VALUE",
+  "en": "Value",
   "ru": "Стоимость",
   "bel": "КОШТ"
  },
  "$VALUE/WEIGHT": {
-  "en": "VALUE/WEIGHT",
+  "en": "Value/Weight",
   "ru": "ЦЕНА/ВЕС",
   "bel": "ЦАНА/ВАГА"
  },
@@ -4980,17 +4980,17 @@
   "bel": "Ацаленняў ад вампірызма"
  },
  "$Vendor Gold": {
-  "en": "Vendor Gold",
+  "en": "Vendor Pennies",
   "ru": "Золота у торговца",
   "bel": "Золата гандляра"
  },
  "$Verifying Connection": {
-  "en": "Verifying Connection",
+  "en": "Verifying Connection...",
   "ru": "Проверка соединения...",
   "bel": "Спраўджваем падключэнне..."
  },
  "$Version:": {
-  "en": "Version:",
+  "en": "Version: ",
   "ru": "Версия: ",
   "bel": "Версія: "
  },
@@ -5010,12 +5010,12 @@
   "bel": "Вертыкальнае зрушэнне"
  },
  "$Very Easy": {
-  "en": "Very Easy",
+  "en": "Novice",
   "ru": "Новичок",
   "bel": "Навічок"
  },
  "$Very Hard": {
-  "en": "Very Hard",
+  "en": "Master",
   "ru": "Мастер",
   "bel": "Майстар"
  },
@@ -5025,12 +5025,12 @@
   "bel": "Вібрацыя"
  },
  "$View Eula": {
-  "en": "View Eula",
+  "en": "View Agreements",
   "ru": "Прочитать соглашения",
   "bel": "Праглядзець пагадненні"
  },
  "$View_Attributes": {
-  "en": "View_Attributes",
+  "en": "Attributes",
   "ru": "Атрибуты",
   "bel": "Атрыбуты"
  },
@@ -5045,17 +5045,17 @@
   "bel": "ЦЯПЛО"
  },
  "$WEAPONS": {
-  "en": "WEAPONS",
+  "en": "Weapons",
   "ru": "ОРУЖИЕ",
   "bel": "ЗБРОЯ"
  },
  "$WEIGHT": {
-  "en": "WEIGHT",
+  "en": "Weight",
   "ru": "ВЕС",
   "bel": "ВАГА"
  },
  "$WGT": {
-  "en": "WGT",
+  "en": "Wgt",
   "ru": "ВЕС",
   "bel": "ВАГА"
  },
@@ -5065,7 +5065,7 @@
   "bel": "Чакаць"
  },
  "$Wait how long?": {
-  "en": "Wait how long?",
+  "en": "How long would you like to rest?",
   "ru": "Сколько ждать?",
   "bel": "Колькі чакаць?"
  },
@@ -5115,7 +5115,7 @@
   "bel": "Пераўтварэнняў ваўкалака"
  },
  "$Whiterun Bounty": {
-  "en": "Whiterun Bounty",
+  "en": "Not in use",
   "ru": "Не используется",
   "bel": "Узнагарода за галаву ў Беларучайску"
  },
@@ -5125,7 +5125,7 @@
   "bel": "Абадрана крыльцаў"
  },
  "$Winterhold Bounty": {
-  "en": "Winterhold Bounty",
+  "en": "Not in use",
   "ru": "Не используется",
   "bel": "Узнагарода за галаву ў Зімаўладзе"
  },
@@ -5140,12 +5140,12 @@
   "bel": "Калун"
  },
  "$Words Of Power Learned": {
-  "en": "Words Of Power Learned",
+  "en": "Talent Tiers Learned",
   "ru": "Выучено уровней способностей",
   "bel": "Вывучана Словаў Моцы"
  },
  "$Words Of Power Unlocked": {
-  "en": "Words Of Power Unlocked",
+  "en": "Talent Tiers Unlocked",
   "ru": "Открыто уровней способностей",
   "bel": "Разблакавана Словаў Моцы"
  },
@@ -5165,7 +5165,7 @@
   "bel": "Так"
  },
  "$You leveled up!  Choose an attribute to advance:": {
-  "en": "You leveled up!  Choose an attribute to advance:",
+  "en": "You leveled up!  Choose an attribute to raise:",
   "ru": "Новый уровень! Выберите повышаемую характеристику:",
   "bel": "Абярыце атрыбут для павышэння:"
  },
@@ -5180,7 +5180,7 @@
   "bel": "[НОВАЕ ЗАХАВАННЕ]"
  },
  "$creation credits": {
-  "en": "creation credits",
+  "en": "Creation Credits",
   "ru": "Кредиты творчества",
   "bel": "Клубныя Крэдыты"
  },
