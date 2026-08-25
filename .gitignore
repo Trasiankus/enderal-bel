@@ -1,0 +1,4 @@
+# build output of scripts/make_mod.py
+mod/
+__pycache__/
+*.pyc
