@@ -1032,7 +1032,7 @@
  "01d816075e40ba45": {
   "en": "Crafting Book: Sleight of Hand, Master",
   "ru": "Книга крафтинга: Проворные руки, Мастер",
-  "bel": "Кніга крафту: Спрытныя рукі, майстар"
+  "bel": "Кніга рамяства: Спрытныя рукі, майстар"
  },
  "01dc43dfab2a5ccb": {
   "en": "Brrr. Well, working with you is definitely an experience, to say the least.  ",
@@ -1212,7 +1212,7 @@
  "0232fd8ebf90ccf4_skyrimstrings": {
   "en": "Learning and crafting books",
   "ru": "Книги обучения и крафтинга",
-  "bel": "Кнігі навучання і крафту"
+  "bel": "Кнігі навучання і рамяства"
  },
  "0235028fdbc621cf": {
   "en": "You mean you can't cast magic anymore? What could cause that? The Beacon?",
@@ -3182,7 +3182,7 @@
  "0568d2bf88e6efca": {
   "en": "Crafting Book: Alchemy, Apprentice",
   "ru": "Книга крафтинга: Алхимия, Ученик",
-  "bel": "Кніга крафту: Алхімія, вучань"
+  "bel": "Кніга рамяства: Алхімія, вучань"
  },
  "056b0dcb4b7cf199": {
   "en": "I fight for something called common sense. You should try it sometime.",
@@ -3667,7 +3667,7 @@
  "0639b06ed49e1afd": {
   "en": "Crafting Book: Sleight of Hand, Expert",
   "ru": "Книга крафтинга: Проворные руки, Эксперт",
-  "bel": "Кніга крафту: Спрытныя рукі, эксперт"
+  "bel": "Кніга рамяства: Спрытныя рукі, эксперт"
  },
  "063a91ac7ec88016_skyrimstrings": {
   "en": "HairMaleOrc01",
@@ -4797,7 +4797,7 @@
  "0830450ff2e1d44a": {
   "en": "Increases Rhetorics for Apprentice (up to skill level 25). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык риторики до ученика (уровень навыка - 25). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык рыторыкі да вучня (узровень навыка - 25). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык рыторыкі да вучня (узровень навыка - 25). Кошт: 1 ачко рамяства."
  },
  "0830c6f33162ed3e_skyrimilstrings": {
   "en": "And if they refuse?",
@@ -5457,7 +5457,7 @@
  "0950e7639c783363_skyrimstrings": {
   "en": "Crafting Book: Rhetoric, Adept",
   "ru": "Книга крафтинга: Риторика, Адепт",
-  "bel": "Кніга крафтінгу: Рыторыка, адэпт"
+  "bel": "Кніга рамяства: Рыторыка, адэпт"
  },
  "09517a104346b0f5": {
   "en": "You're talking about these children as though they were objects. Do you have any empathy?",
@@ -18732,7 +18732,7 @@
  "1f7285d42d69fc2a": {
   "en": "Crafting Book: Enchantment, Expert",
   "ru": "Книга крафтинга: Зачарование, Эксперт",
-  "bel": "Кніга крафту: Зачараванне, эксперт"
+  "bel": "Кніга рамяства: Зачараванне, эксперт"
  },
  "1f7469c930a46e68": {
   "en": "Heavy Armor fortified by <mag> points.",
@@ -19442,7 +19442,7 @@
  "20e37408c5aab389": {
   "en": "Increases Handicraft for Expert (up to skill level 75). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык ремесла до эксперта (уровень навыка - 75). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык рамяства да эксперта (узровень навыка - 75). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык рамяства да эксперта (узровень навыка - 75). Кошт: 1 ачко рамяства."
  },
  "20e9e0c36ced9724": {
   "en": "In return, you will be granted a good pay and path-abiding, honest work. Work that other Outlanders would give their left hand for, if I may say that.",
@@ -21112,7 +21112,7 @@
  "23da983ad2f6a326_skyrimstrings": {
   "en": "Crafting Book: Alchemy, Expert",
   "ru": "Книга крафтинга: Алхимия, Эксперт",
-  "bel": "Кніга крафту: Алхімія, эксперт"
+  "bel": "Кніга рамяства: Алхімія, эксперт"
  },
  "23de7159662e8c17": {
   "en": "And there he goes... Call me paranoid, but that all went a little too smoothly for my liking.",
@@ -23657,7 +23657,7 @@
  "2823660585de8d1f": {
   "en": "Increases Sleight of Hand for Apprentice (up to skill level 25). Costs: 1 Crafting Point",
   "ru": "Увеличивает ловкость рук до ученика (до уровня навыка 25). Стоимость: 1 очко крафтинга",
-  "bel": "Павышае спрыт рук да вучня (да ўзроўня навыка 25). Кошт: 1 ачко крафту"
+  "bel": "Павышае спрыт рук да вучня (да ўзроўня навыка 25). Кошт: 1 ачко рамяства"
  },
  "2823b2f162ea4bfa": {
   "en": "Rescue Elfriede from the Three River Watch (*)",
@@ -24297,7 +24297,7 @@
  "2945b016cfad5e77": {
   "en": "Increases Sleight of Hand for Master (up to skill level 100). Costs: 1 Crafting Point",
   "ru": "Увеличивает ловкость рук до мастера (до уровня навыка 100). Стоимость: 1 очко крафтинга",
-  "bel": "Павышае спрыт рук да майстра (да ўзроўня навыка 100). Кошт: 1 ачко крафту"
+  "bel": "Павышае спрыт рук да майстра (да ўзроўня навыка 100). Кошт: 1 ачко рамяства"
  },
  "2946dcee91c4b2b2_enderalilstrings": {
   "en": "I don't know. Maybe.",
@@ -25652,7 +25652,7 @@
  "2bcf4c7dfdfeb9bb": {
   "en": "Crafting Book: Enchantment, Apprentice",
   "ru": "Книга крафтинга: Зачарование, Ученик",
-  "bel": "Кніга крафту: Зачараванне, вучань"
+  "bel": "Кніга рамяства: Зачараванне, вучань"
  },
  "2bd3e6172853b649_skyrimilstrings": {
   "en": "Ich schätze, wir haben Besuch.",
@@ -26367,7 +26367,7 @@
  "2cee9fe6504bfb7f": {
   "en": "Increases Handicraft for Adept (up to skill level 50). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык ремесла до адепта (уровень навыка - 50). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык рамяства да адепта (узровень навыка - 50). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык рамяства да адепта (узровень навыка - 50). Кошт: 1 ачко рамяства."
  },
  "2cf2e30665ce7e17_skyrimstrings": {
   "en": "HumanFemaleSkinWhite03",
@@ -36837,7 +36837,7 @@
  "3f10bab4e0c9d88d": {
   "en": "Crafting Book: Handicraft, Adept",
   "ru": "Книга крафтинга: Ремесло, Адепт",
-  "bel": "Кніга крафтінгу: Рамяство, адэпт"
+  "bel": "Кніга рамяства: Рамяство, адэпт"
  },
  "3f1901525e305b06_skyrimilstrings": {
   "en": "Bloody fool!",
@@ -47337,7 +47337,7 @@
  "5169562eeb2c3993": {
   "en": "Crafting Book: Sleight of Hand, Apprentice",
   "ru": "Книга крафтинга: Проворные руки, Ученик",
-  "bel": "Кніга крафту: Спрытныя рукі, вучань"
+  "bel": "Кніга рамяства: Спрытныя рукі, вучань"
  },
  "5169591e2ca00265": {
   "en": "Dijaam not here, Dijaam other place. Perhaps Duul can remember, but she needs to help his memory. Duul's memory old and full of holes, like cheese.",
@@ -50642,7 +50642,7 @@
  "57325d89af96114d": {
   "en": "Crafting Book: Handicraft, Master",
   "ru": "Книга крафтинга: Ремесло, Мастер",
-  "bel": "Кніга крафтінгу: Рамяство, майстар"
+  "bel": "Кніга рамяства: Рамяство, майстар"
  },
  "573327fb5511fbb3_skyrimstrings": {
   "en": "Ring of the Elementalist",
@@ -55952,7 +55952,7 @@
  "60ce2a5774d3bc59": {
   "en": "Pennies are indispensable for the development of your character. You need them to buy equipment and Learning Books, which are important especially at higher difficulty levels. So do your utmost to have your pouch filled at all times - be it through exploration, crafting, quests, or share certificates.",
   "ru": "Медяки нужны для развития вашего персонажа. Они вам понадобятся, если вы захотите прикупить снаряжение и книги обучения, которые особенно важны на высоких уровнях сложности. Таким образом, вам нужно сделать все возможное, чтобы ваш мешок был всегда полон - будь то за счет исследования, крафтинга, квестов или акционных сертификатов.",
-  "bel": "Медзякі неабходныя для развіцця вашага персанажа. Яны спатрэбяцца вам, калі захочаце купіць снаражэнне і кнігі навучання, якія асабліва важныя на высокіх узроўнях складанасці. Такім чынам, рабіце ўсё магчымае, каб ваш мяшок заўсёды быў поўным — ці то за кошт даследаванняў, крафту, квестаў або акцыйных сертыфікатаў."
+  "bel": "Медзякі неабходныя для развіцця вашага персанажа. Яны спатрэбяцца вам, калі захочаце купіць снаражэнне і кнігі навучання, якія асабліва важныя на высокіх узроўнях складанасці. Такім чынам, рабіце ўсё магчымае, каб ваш мяшок заўсёды быў поўным — ці то за кошт даследаванняў, рамяства, квестаў або акцыйных сертыфікатаў."
  },
  "60cf72a0bad75db7": {
   "en": "By now Yuslan should be finished with reconstructing the Planeswalker. I should go to the meeting place in the Undercity, that we have agreed upon beforehand.",
@@ -64947,7 +64947,7 @@
  "7014c1b8e099d04b": {
   "en": "Increases Lockpicking for Master (up to skill level 100). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык взлома до мастера (уровень навыка - 100). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык узлома да майстра (узровень навыка - 100). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык узлома да майстра (узровень навыка - 100). Кошт: 1 ачко рамяства."
  },
  "7015964599c0010f_enderalilstrings": {
   "en": "Their leader. Not mine.",
@@ -65427,7 +65427,7 @@
  "70ebf0a148bde1dc": {
   "en": "Increases Lockpicking for Adept (up to skill level 50). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык взлома до адепта (уровень навыка - 50). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык узлома да адепта (узровень навыка - 50). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык узлома да адепта (узровень навыка - 50). Кошт: 1 ачко рамяства."
  },
  "70ee3f1bd7e65fea": {
   "en": "It's not. But fine, as you wish.",
@@ -69467,7 +69467,7 @@
  "7802f19a254e1779": {
   "en": "Increases Sleight of Hand for Expert (up to skill level 75). Costs: 1 Crafting Point",
   "ru": "Увеличивает ловкость рук до эксперта (до уровня навыка 75). Стоимость: 1 очко крафтинга",
-  "bel": "Павышае спрыт рук да эксперта (да ўзроўня навыка 75). Кошт: 1 ачко крафту"
+  "bel": "Павышае спрыт рук да эксперта (да ўзроўня навыка 75). Кошт: 1 ачко рамяства"
  },
  "78030c23d009f798": {
   "en": "I won't open them again until tomorrow noon, but that should be enough time for you to finish whatever business you have here. Mydame Thalara's banana grog is a blast, if that helps you decide.",
@@ -73637,7 +73637,7 @@
  "7eaf8321fae65e47": {
   "en": "I'll take that one. (Crafting Book: Apprentice, Alchemy)",
   "ru": "Я возьму эту (книга крафтинга: Алхимия, ученик).",
-  "bel": "Я ўзяму гэтую. (Кніга крафту: Алхімія, вучань.)"
+  "bel": "Я ўзяму гэтую. (Кніга рамяства: Алхімія, вучань.)"
  },
  "7eb0ea33ccd50cdb": {
   "en": "They are similar to magic, or the power responsible for the tides. They are pure energy.",
@@ -74512,7 +74512,7 @@
  "8016c55bd7998962": {
   "en": "Crafting Book: Lockpicking, Expert",
   "ru": "Книга крафтинга: Взлом, Эксперт",
-  "bel": "Кніга крафту: Адмыканне, эксперт"
+  "bel": "Кніга рамяства: Адмыканне, эксперт"
  },
  "8017b0f0779165ba": {
   "en": "Receive Redrick Borecut's bounty",
@@ -84557,7 +84557,7 @@
  "91b19cf3373c7dd4": {
   "en": "Crafting points can be used to raise skills which only indirectly influence the battle: Alchemy, Enchanting, Sleight of Hand, Handicraft, Lockpicking, and Rhetorics.",
   "ru": "Очки крафтинга могут быть использованы для повышения навыков, которые не напрямую связаны со сражениями: алхимия, зачарование, ловкость рук, ремесло, взлом и риторика.",
-  "bel": "Ачкі крафту можна выдаткаваць на павышэнне навыкаў, якія звязаны з боем толькі ўскосна: алхімія, зачараванне, спрыт рук, рамяство, узлом замкоў і рыторыка."
+  "bel": "Ачкі рамяства можна выдаткаваць на павышэнне навыкаў, якія звязаны з боем толькі ўскосна: алхімія, зачараванне, спрыт рук, рамяство, узлом замкоў і рыторыка."
  },
  "91b39c6013c46bda": {
   "en": "Hold down [Sprint] to sprint. Sprinting will drain your Stamina.",
@@ -92172,7 +92172,7 @@
  "9ec4b3979d0f9502": {
   "en": "In Enderal your combat orientated skills only raise through using learning books. These can be found or bought from merchants and consume one Learning Point when used.\r\n\r\nEspecially further into the game you will need high skill values, so you should always save a part of your income for learning books.\r\n\r\nWorkmanship guides work the same way, though they only raise your non-combat orientated skills. They consume Crafting Points instead of Learning Points and are considerably cheaper.",
   "ru": "В Эндерале ваши боевые навыки улучшаются только с помощью учебников. Их можно найти или приобрести у торговцев. При использовании они потребляют одно очко обучения.\r\n\r\nВ дальнейшем вам будет нужен более высокий уровень навыка, поэтому стоит хранить найденные учебники.\r\n\r\nКниги ремесленников делают то же самое, хотя они поднимают только небоевые навыки. При использовании они потребляют одно очко крафтинга вместо очков обучения, а также эти книги значительно дешевле.",
-  "bel": "У Эндэрале вашы баявыя навыкі павышаюцца толькі з дапамогай падручнікаў. Іх можна знайсці або купіць у гандляроў. Пры выкарыстанні яны расходуюць адзін бал навучання.\r\n\r\nАсабліва далей у гульні вам спатрэбіцца больш высокі ўзровень навыкаў, таму варта захоўваць знойдзеныя падручнікі.\r\n\r\nКнігі рамеснікаў дзейнічаюць гэтак жа, хаця павышаюць толькі небаявыя навыкі. Пры выкарыстанні яны расходуюць адзін бал крафтынгу замест балаў навучання, ды і каштуюць гэтыя кнігі значна танней."
+  "bel": "У Эндэрале вашы баявыя навыкі павышаюцца толькі з дапамогай падручнікаў. Іх можна знайсці або купіць у гандляроў. Пры выкарыстанні яны расходуюць адзін бал навучання.\r\n\r\nАсабліва далей у гульні вам спатрэбіцца больш высокі ўзровень навыкаў, таму варта захоўваць знойдзеныя падручнікі.\r\n\r\nКнігі рамеснікаў дзейнічаюць гэтак жа, хаця павышаюць толькі небаявыя навыкі. Пры выкарыстанні яны расходуюць адзін бал рамяства замест балаў навучання, ды і каштуюць гэтыя кнігі значна танней."
  },
  "9ec5d19b893e6386": {
   "en": "Pyrean Shield of Protection from Magic",
@@ -93872,7 +93872,7 @@
  "a1fa7fbedb90c33a": {
   "en": "Increases Rhetorics for Adept (up to skill level 50). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык риторики до адепта (уровень навыка - 50). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык рыторыкі да адепта (узровень навыка - 50). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык рыторыкі да адепта (узровень навыка - 50). Кошт: 1 ачко рамяства."
  },
  "a1fbf3d5138db871_skyrimstrings": {
   "en": "Thieves Guild Armor",
@@ -95082,7 +95082,7 @@
  "a43fcfe1cfb989f1": {
   "en": "Increases Rhetorics for Expert (up to skill level 75). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык риторики до эксперта (уровень навыка - 75). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык рыторыкі да эксперта (узровень навыка - 75). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык рыторыкі да эксперта (узровень навыка - 75). Кошт: 1 ачко рамяства."
  },
  "a4422f1174ef252a": {
   "en": "How's the situation in the city? Are the seals working?",
@@ -96267,7 +96267,7 @@
  "a6521af509e117ff": {
   "en": "Increases Lockpicking for Expert (up to skill level 75). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык взлома до эксперта (уровень навыка - 75). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык узлома да эксперта (узровень навыка - 75). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык узлома да эксперта (узровень навыка - 75). Кошт: 1 ачко рамяства."
  },
  "a655c97ae0f8dd7c": {
   "en": "<font face='$HandwrittenFont'>\r\nMagistra Yaela,\r\n\r\nI do understand your scepticism, but we are on the right track. This Skaragg mage - and no, this is not meant to relativise her questionable world view - has found undeniable coherences between these Dylgar stones and the Grandmaster's theories. Should she be right, she could be our only chance to get something like magical protection. On that note: Grandmaster Arantheal knows what he's doing. Loathe as I am to admit it, his son's mages have been nothing but helpful thus far.\r\n\r\nMarak\r\n</font>",
@@ -103857,7 +103857,7 @@
  "b3641130d57c8970": {
   "en": "Crafting Book: Enchantment, Master",
   "ru": "Книга крафтинга: Зачарование, Мастер",
-  "bel": "Кніга крафту: Зачараванне, майстар"
+  "bel": "Кніга рамяства: Зачараванне, майстар"
  },
  "b365c3a3397c63d0": {
   "en": "Ihr meint, Ihr wollt nicht nur Elemente anderer Realitäten in unsere holen, sondern diese Realitäten... was, besuchen?",
@@ -106162,7 +106162,7 @@
  "b76ef6fabcf9266f": {
   "en": "Crafting Book: Handicraft, Apprentice",
   "ru": "Книга крафтинга: Ремесло, Ученик",
-  "bel": "Кніга крафту: Рамяства, вучань"
+  "bel": "Кніга рамяства: Рамяства, вучань"
  },
  "b76f5aa45a26eb5c": {
   "en": "So he's an expert on the Black Libra too?",
@@ -106262,7 +106262,7 @@
  "b78d478dd809aca3": {
   "en": "Crafting Book: Lockpicking, Adept",
   "ru": "Книга крафтинга: Взлом, Адепт",
-  "bel": "Кніга крафту: Адмыканне, адэпт"
+  "bel": "Кніга рамяства: Адмыканне, адэпт"
  },
  "b78ee8edd0f9e5d3_skyrimilstrings": {
   "en": "Run!",
@@ -107492,7 +107492,7 @@
  "b9a5cf42c9f7e264": {
   "en": "Crafting Book: Enchantment, Adept",
   "ru": "Книга крафтинга: Зачарование, Адепт",
-  "bel": "Кніга крафту: Зачараванне, адэпт"
+  "bel": "Кніга рамяства: Зачараванне, адэпт"
  },
  "b9a785fe1d823b37_skyrimilstrings": {
   "en": "Now, shoot!",
@@ -111852,7 +111852,7 @@
  "c0dea02404de609e": {
   "en": "Crafting Book: Rhetoric, Master",
   "ru": "Книга крафтинга: Риторика, Мастер",
-  "bel": "Кніга крафтінгу: Рыторыка, майстар"
+  "bel": "Кніга рамяства: Рыторыка, майстар"
  },
  "c0dea1f962ce1963": {
   "en": "Your apparition transforms into a werewolf for a short amount of time.",
@@ -113012,7 +113012,7 @@
  "c2fba83394d48612": {
   "en": "Increases Rhetorics for Master (up to skill level 100). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык риторики до мастера (уровень навыка - 100). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык рыторыкі да майстра (узровень навыка - 100). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык рыторыкі да майстра (узровень навыка - 100). Кошт: 1 ачко рамяства."
  },
  "c2ff0fde13c78821": {
   "en": "Now aren't you inquisitive. Let me think... I spent most of my time abroad in Qyra, and also a couple of years on the Isles of Kilé. Ah, and there was this mission that led me to Myar-Aranath, once.",
@@ -115572,7 +115572,7 @@
  "c747ce5b1c2f4fd6": {
   "en": "Crafting Book: Rhetoric, Apprentice",
   "ru": "Книга крафтинга: Риторика, Ученик",
-  "bel": "Кніга крафтінгу: Рыторыка, вучань"
+  "bel": "Кніга рамяства: Рыторыка, вучань"
  },
  "c74a2a08ea3600ec_skyrimstrings": {
   "en": "Unknown Effect",
@@ -118802,7 +118802,7 @@
  "cd0358f9ec259d91": {
   "en": "Increases Lockpicking for Apprentice (up to skill level 25). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык взлома до ученика (уровень навыка - 25). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык узлома да вучня (узровень навыка - 25). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык узлома да вучня (узровень навыка - 25). Кошт: 1 ачко рамяства."
  },
  "cd090d8fc38d9015": {
   "en": "Blocking and heavy armor is 5 percent more effective when you Stamina is half-filled. Furthermore the time slows down when your Health falls to less than 15 percent.",
@@ -120512,7 +120512,7 @@
  "cfcd8b364e528fef": {
   "en": "Crafting Book: Rhetoric, Expert",
   "ru": "Книга крафтинга: Риторика, Эксперт",
-  "bel": "Кніга крафтінгу: Рыторыка, эксперт"
+  "bel": "Кніга рамяства: Рыторыка, эксперт"
  },
  "cfd1000402948b8b_skyrimstrings": {
   "en": "Affinity: Battlemage",
@@ -128777,7 +128777,7 @@
  "de79c1c3b3864c88": {
   "en": "Increases Sleight of Hand for Adept (up to skill level 50). Costs: 1 Crafting Point",
   "ru": "Увеличивает ловкость рук до адепта (до уровня навыка 50). Стоимость: 1 очко крафтинга",
-  "bel": "Павышае спрыт рук да адепта (да ўзроўня навыка 50). Кошт: 1 ачко крафту"
+  "bel": "Павышае спрыт рук да адепта (да ўзроўня навыка 50). Кошт: 1 ачко рамяства"
  },
  "de7da91f0b4ef7e5": {
   "en": "(Set of the Fallen) Echo of the Fallen",
@@ -129297,7 +129297,7 @@
  "df4be9a49409af7b": {
   "en": "Increases Handicraft for Apprentice (up to skill level 25). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык ремесла до ученика (уровень навыка - 25). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык рамяства да вучня (узровень навыка - 25). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык рамяства да вучня (узровень навыка - 25). Кошт: 1 ачко рамяства."
  },
  "df4c1a4bb64231d6": {
   "en": "I understand. Then in a few hours' time, the two of us will be the only survivors of mankind. Heck, that sounds so unreal.",
@@ -131727,7 +131727,7 @@
  "e3af3c93bd72c487": {
   "en": "Increases Enchanting for Expert (up to skill level 75). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык зачарования до эксперта (уровень навыка - 75). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык зачаравання да эксперта (узровень навыка - 75). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык зачаравання да эксперта (узровень навыка - 75). Кошт: 1 ачко рамяства."
  },
  "e3b02df885898fa6_skyrimstrings": {
   "en": "Key of the Trapdoor",
@@ -131967,7 +131967,7 @@
  "e403cc33cabce548_skyrimstrings": {
   "en": "Crafting Book: Alchemy, Adept",
   "ru": "Книга крафтинга: Алхимия, Адепт",
-  "bel": "Кніга крафту: Алхімія, адэпт"
+  "bel": "Кніга рамяства: Алхімія, адэпт"
  },
  "e403e56b3d071b48": {
   "en": "Oh, that? Uhm... let's just say it helps to put me in the right mood.",
@@ -133037,7 +133037,7 @@
  "e5c05036faa6686b": {
   "en": "Increases Handicraft for  Master (up to skill level 100) Costs: 1 Crafting Point",
   "ru": "Увеличивает навык ремесла до мастера (уровень навыка - 100). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык рамяства да майстра (узровень навыка - 100). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык рамяства да майстра (узровень навыка - 100). Кошт: 1 ачко рамяства."
  },
  "e5c1f4e05b4c8b12": {
   "en": "How the heck can a bunch of farmers and hunters defy a division of the guard?",
@@ -137072,7 +137072,7 @@
  "ecbcf4d67a22c9e9": {
   "en": "Increases Enchanting for Master (up to skill level 100). Costs: 1 Crafting Point",
   "ru": "Увеличивает навык зачарования до мастера (уровень навыка - 100). Стоимость: 1 очко крафтинга.",
-  "bel": "Павышае навык зачаравання да майстра (узровень навыка - 100). Кошт: 1 ачко крафту."
+  "bel": "Павышае навык зачаравання да майстра (узровень навыка - 100). Кошт: 1 ачко рамяства."
  },
  "ecc3f33618bfd5e3": {
   "en": "You are now in the manipulation mode:\r\n\r\nStrafe left/right: rotate object left/right;\r\nMove forward/backward: raise/lower;\r\nReady weapon (sheathe): pick up;\r\nShort activation: switch to Move mode;\r\nLong activation: finish placement.",
@@ -137882,7 +137882,7 @@
  "ee30b136951ffc9a": {
   "en": "Crafting Book: Handicraft, Expert",
   "ru": "Книга крафтинга: Ремесло, Эксперт",
-  "bel": "Кніга крафтінгу: Рамяство, эксперт"
+  "bel": "Кніга рамяства: Рамяство, эксперт"
  },
  "ee33f374675522a9_skyrimilstrings": {
   "en": "Yes!",
@@ -139427,7 +139427,7 @@
  "f0b353a0539cfb77_skyrimstrings": {
   "en": "Crafting Book: Alchemy, Master",
   "ru": "Книга крафтинга: Алхимия, Мастер",
-  "bel": "Кніга крафту: Алхімія, майстар"
+  "bel": "Кніга рамяства: Алхімія, майстар"
  },
  "f0ba954bfc1dc6b5": {
   "en": "The frozen gate doesn't move an inch.",
@@ -140072,7 +140072,7 @@
  "f1aec2d3f5a7fe0a": {
   "en": "You earn experience points for defeating enemies, solving quests and other achievements.\r\n\r\nIf you earned enough of them you level up and receive one Memory Point, 5 learning and 3 Crafting Points all of which you can use to develop your character. The experience points needed for an level-up rise with each gained level.",
   "ru": "Вы зарабатываете очки опыта за победу над врагами, выполнение заданий и другие достижения.\r\n\r\nЕсли вы заработаете достаточное количество, то поднимите свой уровень и получите одно очко воспоминаний, 5 очков обучения и 3 очка крафтинга, каждый из которых вы можете использовать для развития вашего персонажа. Необходимое количество очков опыта для получения уровня увеличиваются с каждым полученным уровнем.",
-  "bel": "Вы зарабляеце пункты вопыту за перамогу над ворагамі, выкананне заданняў і іншыя дасягненні.\r\n\r\nКалі вы зарабіце дастатковую колькасць, то паднімеце свой узровень і атрымаеце адзін камень успамінаў, 5 пунктаў навучання і 3 пункты крафтынгу, кожны з якіх вы можаце выкарыстаць для развіцця вашага персанажа. Неабходная колькасць пунктаў вопыту для падвышэння ўзроўню расце з кожным атрыманым узроўнем."
+  "bel": "Вы зарабляеце пункты вопыту за перамогу над ворагамі, выкананне заданняў і іншыя дасягненні.\r\n\r\nКалі вы зарабіце дастатковую колькасць, то паднімеце свой узровень і атрымаеце адзін камень успамінаў, 5 пунктаў навучання і 3 пункты рамяства, кожны з якіх вы можаце выкарыстаць для развіцця вашага персанажа. Неабходная колькасць пунктаў вопыту для падвышэння ўзроўню расце з кожным атрыманым узроўнем."
  },
  "f1b69366d993fb2a_skyrimstrings": {
   "en": "Another mercenary attack?",
@@ -142527,7 +142527,7 @@
  "f614d4a3a3ec2394": {
   "en": "Crafting Book: Lockpicking, Apprentice",
   "ru": "Книга крафтинга: Взлом, Ученик",
-  "bel": "Кніга крафту: Адмыканне, вучань"
+  "bel": "Кніга рамяства: Адмыканне, вучань"
  },
  "f615400298b89973": {
   "en": "\"They just appeared\"? Are you trying to tell us that an entire fleet entered our harbor and nobody noticed it?",
@@ -142852,7 +142852,7 @@
  "f6a16690d77da954": {
   "en": "Crafting Book: Sleight of Hand, Adept",
   "ru": "Книга крафтинга: Проворные руки, Адепт",
-  "bel": "Кніга крафту: Спрытныя рукі, адэпт"
+  "bel": "Кніга рамяства: Спрытныя рукі, адэпт"
  },
  "f6a3f0138ecad5e6": {
   "en": "We found Dal'Mercer's estate in the Nobles Quarter of Ark. Apparently we are not alone in our interest for the house. A veiled person roams the entrance area of the estate.",
@@ -147522,7 +147522,7 @@
  "febcb18c5bab0f0f": {
   "en": "Crafting Book: Lockpicking, Master",
   "ru": "Книга крафтинга: Взлом, Мастер",
-  "bel": "Кніга крафту: Адмыканне, майстар"
+  "bel": "Кніга рамяства: Адмыканне, майстар"
  },
  "febe0d20c3e2941c": {
   "en": "You know the rest of the story: They put sacks over our faces and threw us into a carriage, like cattle on their way to the slaughterhouse.",
