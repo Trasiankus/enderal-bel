@@ -36,7 +36,11 @@ def load(n):
 
 
 def tokens(s):
-    return sorted(OPAQUE.findall(s or ""))
+    # '%%' and '%' both render as one literal percent sign. English writes '%%', the
+    # Russian localization writes '%', and this translation follows Russian -- mixing the
+    # two in one string is what crashed the talent descriptions, so normalise before
+    # comparing rather than reporting 126 false positives.
+    return sorted(OPAQUE.findall((s or "").replace("%%", "%")))
 
 
 problems = []
