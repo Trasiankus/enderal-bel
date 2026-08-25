@@ -64,23 +64,30 @@ for key, row in loc.items():
     if tokens(bel) != tokens(en):
         add("placeholder", key, "en=%s bel=%s" % (tokens(en), tokens(bel)))
 
-for key, row in books.items():
-    bel, en = row.get("bel") or [], row.get("en") or []
-    if not bel:
-        continue
-    # bel may legitimately have a different paragraph count from en (the Russian
-    # localization does too); only the token check needs a paired english paragraph.
-    if len(bel) != len(en):
-        add("paragraph-count-note", key, "%d bel vs %d en (ok if intentional)"
-            % (len(bel), len(en)))
-    for i, (b, e) in enumerate(zip(bel, en)):
+for key, book in books.items():
+    n_bel = sum(1 for r in book.values() if r.get("bel"))
+    n_en = sum(1 for r in book.values() if r.get("en"))
+    # Comparing tokens paragraph-by-paragraph only means anything when the two sides
+    # line up. Where the translation merged or split paragraphs (the Russian does this
+    # too) the pairing is arbitrary and every row would report a bogus mismatch.
+    aligned = n_bel == n_en
+    for name, row in book.items():
+        b, e = row.get("bel") or "", row.get("en") or ""
+        if not b:
+            continue
         low = b.lower()
         if any(c in FORBIDDEN for c in low):
-            add("russian-letter", "%s#%d" % (key, i), repr(b[:70]))
+            add("russian-letter", "%s/%s" % (key, name), repr(b[:70]))
         if TARASH.search(low):
-            add("tarashkievica", "%s#%d" % (key, i), repr(b[:70]))
-        if tokens(b) != tokens(e):
-            add("placeholder", "%s#%d" % (key, i), "en=%s bel=%s" % (tokens(e), tokens(b)))
+            add("tarashkievica", "%s/%s" % (key, name), repr(b[:70]))
+        if aligned and e and tokens(b) != tokens(e):
+            add("placeholder", "%s/%s" % (key, name),
+                "en=%s bel=%s" % (tokens(e), tokens(b)))
+    # a differing paragraph count is allowed -- the Russian localization merges
+    # paragraphs too -- but it is worth a human glance
+    if n_bel and not aligned:
+        add("paragraph-count-note", key,
+            "%d bel vs %d en (ok if intentional)" % (n_bel, n_en))
 
 for key, row in ui.items():
     bel = row.get("bel") or ""

@@ -49,21 +49,35 @@ def load(name):
         return json.load(f)
 
 
-def book_text(row):
-    """Rejoin a book's paragraphs with its own recorded separators.
+def para_order(book):
+    """paragraph_2 must sort before paragraph_10, so sort numerically, not as text."""
+    def num(name):
+        m = re.search(r"(\d+)$", name)
+        return int(m.group(1)) if m else 0
+    return sorted(book, key=num)
 
-    If someone adds paragraphs in a PR there will be fewer separators than gaps; pad with
-    the book's most common separator rather than silently running paragraphs together.
+
+def book_text(book):
+    """Rejoin a book's Belarusian paragraphs using each one's recorded separator.
+
+    Paragraphs without a `bel` are skipped: those exist only to carry an English or
+    Russian line that has no counterpart in the translation. If a paragraph was added in
+    a PR without a `sep`, fall back to the book's most common separator rather than
+    silently running two paragraphs together.
     """
-    bel, sep = row.get("bel") or [], row.get("sep") or []
-    if not bel:
+    # Test for the KEY, not for non-empty text: a book that opens or closes with a blank
+    # line has a genuinely empty first/last paragraph, and dropping it eats that line
+    # break. Paragraphs with no "bel" at all are English/Russian-only reference rows.
+    names = [n for n in para_order(book) if "bel" in book[n]]
+    if not names:
         return ""
-    fill = max(set(sep), key=sep.count) if sep else "\r\n\r\n"
+    seps = [book[n]["sep"] for n in names if book[n].get("sep")]
+    fill = max(set(seps), key=seps.count) if seps else "\r\n\r\n"
     out = []
-    for i, para in enumerate(bel):
-        out.append(para)
-        if i < len(bel) - 1:
-            out.append(sep[i] if i < len(sep) else fill)
+    for i, n in enumerate(names):
+        out.append(book[n].get("bel") or "")
+        if i < len(names) - 1:
+            out.append(book[n].get("sep") or fill)
     return "".join(out)
 
 
